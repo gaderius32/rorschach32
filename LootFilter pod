@@ -178,22 +178,22 @@ ItemDisplay[CLVL<20 skc]: %BLACK%»%GRAY%skull
 //║ RUNES ║
 //╚═══════╝
 ItemDisplay[RW]: %NAME%
-ItemDisplay[r01]: %RED%!%TAN%%RUNENAME% %GRAY%1%RED%!
-ItemDisplay[r02]: %RED%!%TAN%%RUNENAME% %GRAY%2%RED%!
-ItemDisplay[r03]: %RED%!%TAN%%RUNENAME% %GRAY%3%RED%!
-ItemDisplay[r04]: %RED%!%TAN%%RUNENAME% %GRAY%4%RED%!
-ItemDisplay[r05]: %RED%!%TAN%%RUNENAME% %GRAY%5%RED%!
-ItemDisplay[r06]: %RED%!%TAN%%RUNENAME% %GRAY%6%RED%!
-ItemDisplay[r07]: %RED%!%TAN%%RUNENAME% %GRAY%7%RED%!
-ItemDisplay[r08]: %RED%!%TAN%%RUNENAME% %GRAY%8%RED%!
-ItemDisplay[r09]: %RED%!%TAN%%RUNENAME% %GRAY%9%RED%!
-ItemDisplay[r10]: %RED%!%TAN%%RUNENAME% %GRAY%10%RED%!
-ItemDisplay[r11]: %RED%!%TAN%%RUNENAME% %GRAY%11%RED%!
-ItemDisplay[r12]: %RED%!%TAN%%RUNENAME% %GRAY%12%RED%!
-ItemDisplay[r13]: %RED%!%TAN%%RUNENAME% %GRAY%13%RED%!
-ItemDisplay[r14]: %RED%!%TAN%%RUNENAME% %GRAY%14%RED%!
-ItemDisplay[r15]: %RED%!%TAN%%RUNENAME% %GRAY%15%RED%!
-ItemDisplay[r16]: %RED%!%TAN%%RUNENAME% %GRAY%16%RED%!
+ItemDisplay[r01]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%1
+ItemDisplay[r02]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%2
+ItemDisplay[r03]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%3
+ItemDisplay[r04]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%4
+ItemDisplay[r05]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%5
+ItemDisplay[r06]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%6
+ItemDisplay[r07]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%7
+ItemDisplay[r08]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%8
+ItemDisplay[r09]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%9
+ItemDisplay[r10]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%10
+ItemDisplay[r11]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%11
+ItemDisplay[r12]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%12
+ItemDisplay[r13]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%13
+ItemDisplay[r14]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%14
+ItemDisplay[r15]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%15
+ItemDisplay[r16]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%16
 ItemDisplay[r17]: %RED%!¤ %ORANGE%%RUNENAME% %RED%¤! %GRAY%17
 ItemDisplay[r18]: %RED%!¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤¤! %GRAY%18
 ItemDisplay[r19]: %RED%!¤¤ %ORANGE%%RUNENAME% %RED%¤¤! %GRAY%19
@@ -292,13 +292,13 @@ ItemDisplay[ID UNI !SOCK=0 ETH]: %NAME% %BLUE%eth (%SOCKETS%)
 //║ MAGIC ║
 //╚═══════╝
 ItemDisplay[MAG !ID amu ILVL<88]: %BLACK%÷ %BLUE%%NAME% %BLACK%÷
-ItemDisplay[MAG !ID amu ILVL=88]: %BLACK%÷ %BLUE%%NAME% %BLUE% [L%ILVL%] %BLACK%÷ 
-ItemDisplay[MAG !ID amu ILVL>88]: %BLACK%÷ %BLUE%%NAME% %BLUE% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %BLUE%%NAME% %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %BLUE%%NAME% %BLUE% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %BLUE%%NAME% %BLUE% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID cm1]: %BLUE%°%RED%  charm  %BLUE%°
-ItemDisplay[MAG !ID cm3]: %BLUE%Ö%RED%  CHARM  %BLUE%Ö
+ItemDisplay[MAG !ID amu ILVL=88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK%÷ 
+ItemDisplay[MAG !ID amu ILVL>88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
+ItemDisplay[MAG !ID rin ILVL<50]: %BLACK%÷ %BLUE%%NAME% %BLACK%÷
+ItemDisplay[MAG !ID rin ILVL=50]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
+ItemDisplay[MAG !ID rin ILVL>50]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
+ItemDisplay[MAG !ID cm1]: %BLUE%°%RED% charm %BLUE%°
+ItemDisplay[MAG !ID cm3]: %BLUE%Ö%RED% CHARM %BLUE%Ö
 ItemDisplay[MAG !ID cm2 ILVL<88]: %BLUE%< %TAN%large %BLUE%>
 ItemDisplay[MAG !ID cm2 ILVL=88]: %BLUE%< %TAN%large %BLUE%>
 ItemDisplay[MAG !ID cm2 ILVL>88]: %BLACK%< %GRAY%large %BLACK%>
