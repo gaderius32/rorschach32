@@ -52,7 +52,7 @@ ItemDisplay[box]: %BLACK%«§%TAN%Crafting Cube%BLACK%§»
 ItemDisplay[hp5]: %GRAY%[%BLACK%¯ %RED%ð%BLACK% ¯%GRAY%]
 ItemDisplay[mp5]: %GRAY%[%BLACK%¯ %BLUE%ð%BLACK% ¯%GRAY%]
 ItemDisplay[rvs]: %GRAY%[%BLACK%¯ %PURPLE%ð%BLACK% ¯%GRAY%]
-ItemDisplay[rvl]: %WHITE%[%PURPLE%*®*%WHITE%]
+ItemDisplay[rvl]: %WHITE%[%PURPLE%®full®%WHITE%]
 ItemDisplay[CLVL>79 hp4]:
 ItemDisplay[CLVL>48 hp3]:
 ItemDisplay[CLVL>24 hp2]:
