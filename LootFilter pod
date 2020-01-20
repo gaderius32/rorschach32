@@ -52,7 +52,7 @@ ItemDisplay[box]: %BLACK%«§%TAN%Crafting Cube%BLACK%§»
 ItemDisplay[hp5]: %GRAY%[%BLACK%¯ %RED%ð%BLACK% ¯%GRAY%]
 ItemDisplay[mp5]: %GRAY%[%BLACK%¯ %BLUE%ð%BLACK% ¯%GRAY%]
 ItemDisplay[rvs]: %GRAY%[%BLACK%¯ %PURPLE%ð%BLACK% ¯%GRAY%]
-ItemDisplay[rvl]: %GRAY%[%BLACK%¯ %PURPLE%®%BLACK% ¯%GRAY%]
+ItemDisplay[rvl]: %WHITE%[%PURPLE%*®*%WHITE%]
 ItemDisplay[CLVL>79 hp4]:
 ItemDisplay[CLVL>48 hp3]:
 ItemDisplay[CLVL>24 hp2]:
@@ -297,8 +297,8 @@ ItemDisplay[MAG !ID amu ILVL>88]: %BLACK%÷ %BLUE%%NAME% %BLUE% [L%ILVL%] %BLACK
 ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %BLUE%%NAME% %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %BLUE%%NAME% %BLUE% [L%ILVL%] %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %BLUE%%NAME% %BLUE% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID cm1]: %BLUE%° %RED%  charm  %BLUE%°
-ItemDisplay[MAG !ID cm3]: %BLUE%Ö %RED%  CHARM  %BLUE%Ö
+ItemDisplay[MAG !ID cm1]: %BLUE%°%RED%  charm  %BLUE%°
+ItemDisplay[MAG !ID cm3]: %BLUE%Ö%RED%  CHARM  %BLUE%Ö
 ItemDisplay[MAG !ID cm2 ILVL<88]: %BLUE%< %TAN%large %BLUE%>
 ItemDisplay[MAG !ID cm2 ILVL=88]: %BLUE%< %TAN%large %BLUE%>
 ItemDisplay[MAG !ID cm2 ILVL>88]: %BLACK%< %GRAY%large %BLACK%>
