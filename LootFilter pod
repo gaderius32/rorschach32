@@ -641,10 +641,18 @@ ItemDisplay[NMAG SK68>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Armor Shield %B
 ItemDisplay[NMAG SK73>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Deadly Poison Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
 ItemDisplay[NMAG SK85>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Blood Golem Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
 ItemDisplay[NMAG SK94>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Fire Golem Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[SK67>0 WP12]: %TAN%Teeth Wand %BLUE%(%SOCKETS%)
-ItemDisplay[SK83>0 WP12]: %TAN%Desecrate Wand %BLUE%(%SOCKETS%)
-ItemDisplay[SK84>0 WP12]: %TAN%Bone Spear Wand %BLUE%(%SOCKETS%)
-ItemDisplay[SK92>0 WP12]: %TAN%Poison Nova Wand %BLUE%(%SOCKETS%)
+ItemDisplay[MAG SK67>0 WP12]: %TAN%Teeth Wand %BLUE%(%SOCKETS%)
+ItemDisplay[MAG SK83>0 WP12]: %TAN%Desecrate Wand %BLUE%(%SOCKETS%)
+ItemDisplay[MAG SK84>0 WP12]: %TAN%Bone Spear Wand %BLUE%(%SOCKETS%)
+ItemDisplay[MAG SK92>0 WP12]: %TAN%Poison Nova Wand %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK67<2 SOCK = 0 WP12]: %TAN%Teeth Wand
+ItemDisplay[NMAG SK83<2 SOCK = 0 WP12]: %TAN%Desecrate Wand
+ItemDisplay[NMAG SK84<2 SOCK = 0 WP12]: %TAN%Bone Spear Wand
+ItemDisplay[NMAG SK92<2 SOCK = 0 WP12]: %TAN%Poison Nova Wand
+ItemDisplay[NMAG SK67<2 SOCK = 1 WP12]: %TAN%Teeth Wand %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK83<2 SOCK = 1 WP12]: %TAN%Desecrate Wand %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK84<2 SOCK = 1 WP12]: %TAN%Bone Spear Wand %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK92<2 SOCK = 1 WP12]: %TAN%Poison Nova Wand %BLUE%(%SOCKETS%)
 ItemDisplay[NMAG SK67=2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+2 %ORANGE%Teeth Wand %WHITE% ("white" base)%RED% LARZUK
 ItemDisplay[NMAG SK83=2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+2 %ORANGE%Desecrate Wand %WHITE% ("white" base)%RED% LARZUK
 ItemDisplay[NMAG SK84=2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+2 %ORANGE%Bone Spear Wand %WHITE% ("white" base)%RED% LARZUK
