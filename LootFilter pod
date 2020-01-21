@@ -1420,7 +1420,7 @@ ItemDisplay[UNI !ID utu ETH]: %GOLD%¤ eth The Gladiator's Bane ¤
 ItemDisplay[UNI !ID upl ETH]: %GOLD%¤ eth Arkaine's Valor ¤
 ItemDisplay[UNI !ID xlt ETH]: %GOLD%¤ eth Guardian Angel ¤
 ItemDisplay[UNI !ID uui ETH]: %GOLD%¤ eth Ormus' Robes ¤
-ItemDisplay[UNI !ID xhn ETH]: %GOLD%¤ eth Shaftstop ¤
+ItemDisplay[UNI !ID xhn ETH]: %GOLD%¤¤¤ %RED%eth %GOLD%Shaftstop ¤¤¤
 ItemDisplay[UNI !ID xar ETH]: %GOLD%¤ eth Corpsemourn ¤
 ItemDisplay[UNI !ID xrs ETH]: %GOLD%¤ eth Duriel's Shell ¤
 ItemDisplay[UNI !ID lea ETH]: %GOLD%¤ eth Blinkbat's Form ¤
