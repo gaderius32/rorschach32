@@ -31,7 +31,12 @@ ItemDisplay[cx6]: %PURPLE%üüü %RED%SOUL %PURPLE%üüü
 ItemDisplay[std]: %GOLD%+ %DGREEN%Standard %GOLD%+
 ItemDisplay[cx9]: %GOLD%+ %ORANGE%???????? %GOLD%+
 
-
+// Show possible expensive, fewer-socketed white/magic items with vendor price
+ItemDisplay[(WP11 OR WP12 OR WP13) (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // staves, wands and scepters
+ItemDisplay[CL1 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Druid pelts
+ItemDisplay[CL2 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Barbarian helmets
+ItemDisplay[CL4 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Necromancer shields
+ItemDisplay[CL6 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Sorceress weapons
 //╔═══════════╗
 //║ INVENTORY ║
 //╚═══════════╝
@@ -636,14 +641,22 @@ ItemDisplay[NMAG SK68>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Armor Shield %B
 ItemDisplay[NMAG SK73>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Deadly Poison Shield %BLUE%(%SOCKETS%)
 ItemDisplay[NMAG SK85>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Blood Golem Shield %BLUE%(%SOCKETS%)
 ItemDisplay[NMAG SK94>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Fire Golem Shield %BLUE%(%SOCKETS%)
-ItemDisplay[NMAG SK67>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Teeth Wand
-ItemDisplay[NMAG SK83>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Desecrate Wand
-ItemDisplay[NMAG SK84>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Bone Spear Wand
-ItemDisplay[NMAG SK92>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Poison Nova Wand
+ItemDisplay[NMAG SK67>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Teeth Wand %WHITE% ("white" base)%RED% LARZUK
+ItemDisplay[NMAG SK83>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Desecrate Wand %WHITE% ("white" base)%RED% LARZUK
+ItemDisplay[NMAG SK84>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Bone Spear Wand %WHITE% ("white" base)%RED% LARZUK
+ItemDisplay[NMAG SK92>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Poison Nova Wand %WHITE% ("white" base)%RED% LARZUK
 ItemDisplay[NMAG SK68>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Bone Armor Wand
 ItemDisplay[NMAG SK73>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Deadly Poison Wand
 ItemDisplay[NMAG SK85>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Blood Golem Wand
 ItemDisplay[NMAG SK94>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Fire Golem Wand
+ItemDisplay[NMAG SK67>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Teeth Wand %RED%- ROLL sockets - dont LARZUK
+ItemDisplay[NMAG SK83>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Desecrate Wand %RED%- ROLL sockets - dont LARZUK
+ItemDisplay[NMAG SK84>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Bone Spear Wand %RED%- ROLL sockets - dont LARZUK
+ItemDisplay[NMAG SK92>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Poison Nova Wand %RED%- ROLL sockets - dont LARZUK
+ItemDisplay[NMAG SK68>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Bone Armor Wand %RED%- ROLL sockets - dont LARZUK
+ItemDisplay[NMAG SK73>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Deadly Poison Wand %RED%- ROLL  sockets - dont LARZUK
+ItemDisplay[NMAG SK85>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Blood Golem Wand %RED%- ROLL sockets - dont LARZUK
+ItemDisplay[NMAG SK94>2 SOCK=0 WP12 wnd ywn 9wn]: %WHITE%+3 %ORANGE%Fire Golem Wand %RED%- ROLL sockets - dont LARZUK
 ItemDisplay[NMAG SK67>2 SOCK=2 WP12]: %WHITE%+3 %ORANGE%Teeth Wand %BLUE%(%SOCKETS%)
 ItemDisplay[NMAG SK83>2 SOCK=2 WP12]: %WHITE%+3 %ORANGE%Desecrate Wand %BLUE%(%SOCKETS%)
 ItemDisplay[NMAG SK84>2 SOCK=2 WP12]: %WHITE%+3 %ORANGE%Bone Spear Wand %BLUE%(%SOCKETS%)
