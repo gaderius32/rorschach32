@@ -32,10 +32,9 @@ ItemDisplay[std]: %GOLD%+ %DGREEN%Standard %GOLD%+
 ItemDisplay[cx9]: %GOLD%+ %ORANGE%???????? %GOLD%+
 
 // Show possible expensive, fewer-socketed white/magic items with vendor price
-ItemDisplay[(WP11 OR WP12 OR WP13) (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // staves and scepters
+ItemDisplay[(WP11 OR WP12 OR WP13) (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // staves and wands and scepters
 ItemDisplay[CL1 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Druid pelts
 ItemDisplay[CL4 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // necromancer shields
-ItemDisplay[CL5 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // necromancer shields
 ItemDisplay[CL2 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Barbarian helmets
 ItemDisplay[CL6 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Sorceress weapons
 //╔═══════════╗
