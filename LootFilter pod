@@ -129,19 +129,19 @@ ItemDisplay[MAG ID WP13 (TABSK24>2 AND SK121>2)]: %PURPLE%+++++ %ORANGE%FOH SCEP
 //╔══════╗
 //║ GEMS ║
 //╚══════╝
-ItemDisplay[gpv]: %BLACK%«%PURPLE%Amethyst%BLACK%»
+ItemDisplay[gpv]: %BLACK%«%PURPLE%Amethyst%BLACK%»%PURPLE%WEAPON
 ItemDisplay[gpw]: %BLACK%«%WHITE%Diamond%BLACK%»
 ItemDisplay[gpg]: %BLACK%«%GREEN%Emerald%BLACK%»
 ItemDisplay[gpr]: %BLACK%«%RED%Ruby%BLACK%»
 ItemDisplay[gpb]: %BLACK%«%BLUE%Sapphire%BLACK%»
-ItemDisplay[gpy]: %BLACK%«%YELLOW%Topaz%BLACK%»
+ItemDisplay[gpy]: %BLACK%«%YELLOW%Topaz%BLACK%»%PURPLE%ARMOR
 ItemDisplay[skz]: %BLACK%«%ORANGE%Skull%BLACK%»
-ItemDisplay[gzv]: %PURPLE%««%GRAY%Amethyst%PURPLE%»»
+ItemDisplay[gzv]: %PURPLE%««%GRAY%Amethyst%PURPLE%»»%PURPLE%WEAPON
 ItemDisplay[glw]: %WHITE%««%GRAY%Diamond%WHITE%»»
 ItemDisplay[glg]: %GREEN%««%GRAY%Emerald%GREEN%»»
 ItemDisplay[glr]: %RED%««%GRAY%Ruby%RED%»»
 ItemDisplay[glb]: %BLUE%««%GRAY%Sapphire%BLUE%»»
-ItemDisplay[gly]: %YELLOW%««%GRAY%Topaz%YELLOW%»»
+ItemDisplay[gly]: %YELLOW%««%GRAY%Topaz%YELLOW%»»%PURPLE%ARMOR
 ItemDisplay[skl]: %ORANGE%««%GRAY%Skull%ORANGE%»»
 ItemDisplay[CLVL>39 (gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku)]:
 ItemDisplay[CLVL>29 (gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf)]:
@@ -177,11 +177,11 @@ ItemDisplay[r03]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%3
 ItemDisplay[r04]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%4
 ItemDisplay[r05]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%5
 ItemDisplay[r06]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%6
-ItemDisplay[r07]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%7
-ItemDisplay[r08]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%8
+ItemDisplay[r07]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%7%PURPLE%ARMOR
+ItemDisplay[r08]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%8%PURPLE%WEAPON
 ItemDisplay[r09]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%9
-ItemDisplay[r10]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%10
-ItemDisplay[r11]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%11
+ItemDisplay[r10]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%10%PURPLE%ARMOR
+ItemDisplay[r11]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%11%PURPLE%WEAPON
 ItemDisplay[r12]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%12
 ItemDisplay[r13]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%13
 ItemDisplay[r14]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%14
