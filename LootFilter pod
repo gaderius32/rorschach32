@@ -30,7 +30,6 @@ ItemDisplay[mbr]: %PURPLE%üüü %YELLOW%BRAIN %PURPLE%üüü
 ItemDisplay[cx6]: %PURPLE%üüü %RED%SOUL %PURPLE%üüü
 ItemDisplay[std]: %GOLD%+ %DGREEN%Standard %GOLD%+
 ItemDisplay[cx9]: %GOLD%+ %ORANGE%???????? %GOLD%+
-
 //╔═══════════╗
 //║ INVENTORY ║
 //╚═══════════╝
@@ -39,14 +38,14 @@ ItemDisplay[tbk]: %BLACK%«%BLUE%TP Tome%BLACK%»
 ItemDisplay[CLVL>44 isc]:
 ItemDisplay[CLVL>32 tsc]:
 ItemDisplay[CLVL>81 key]:
-ItemDisplay[CLVL<45 isc]: %BLACK%¯%DGREEN%IDscroll%BLACK%¯
-ItemDisplay[CLVL<33 tsc]: %BLACK%¯%BLUE%Tscroll%BLACK%¯
-ItemDisplay[CLVL<80 key]: %BLACK%¯%TAN%ÎkeyÎ%BLACK%¯
+ItemDisplay[CLVL<45 isc]: %BLACK%¯%DGREEN%?%BLACK%¯
+ItemDisplay[CLVL<33 tsc]: %BLACK%¯%GRAY%¶%BLACK%¯
+ItemDisplay[CLVL<80 key]: %BLACK%¯%TAN%Î%BLACK%¯
 ItemDisplay[box]: %BLACK%«§%TAN%Crafting Cube%BLACK%§»
-ItemDisplay[hp5]: %GRAY%[%BLACK%¯ %RED%ð%BLACK% ¯%GRAY%]
-ItemDisplay[mp5]: %GRAY%[%BLACK%¯ %BLUE%ð%BLACK% ¯%GRAY%]
-ItemDisplay[rvs]: %GRAY%[%BLACK%¯ %PURPLE%ð%BLACK% ¯%GRAY%]
-ItemDisplay[rvl]: %WHITE%[ %PURPLE%®full® %WHITE%]
+ItemDisplay[hp5]: %BLACK%¯ %RED%ð%BLACK% ¯
+ItemDisplay[mp5]: %BLACK%¯ %BLUE%ð%BLACK% ¯
+ItemDisplay[rvs]: %BLACK%¯ %PURPLE%ð%BLACK% ¯
+ItemDisplay[rvl]: %BLACK%¯ %PURPLE%®Full®%BLACK% ¯
 ItemDisplay[CLVL>79 hp4]:
 ItemDisplay[CLVL>48 hp3]:
 ItemDisplay[CLVL>24 hp2]:
@@ -55,22 +54,22 @@ ItemDisplay[CLVL>79 mp4]:
 ItemDisplay[CLVL>60 mp3]:
 ItemDisplay[CLVL>30 mp2]:
 ItemDisplay[CLVL>15 mp1]:
-ItemDisplay[CLVL<80 hp4]: %GRAY%[%BLACK%¯ %RED%ð%BLACK% ¯%GRAY%]
-ItemDisplay[CLVL<49 hp3]: %GRAY%[%BLACK%¯ %RED%ð%BLACK% ¯%GRAY%]
-ItemDisplay[CLVL<25 hp2]: %GRAY%[%BLACK%¯ %RED%ð%BLACK% ¯%GRAY%]
-ItemDisplay[CLVL<13 hp1]: %GRAY%[%BLACK%¯ %RED%ð%BLACK% ¯%GRAY%]
-ItemDisplay[CLVL<80 mp4]: %GRAY%[%BLACK%¯ %BLUE%ð%BLACK% ¯%GRAY%]
-ItemDisplay[CLVL<61 mp3]: %GRAY%[%BLACK%¯ %BLUE%ð%BLACK% ¯%GRAY%]
-ItemDisplay[CLVL<31 mp2]: %GRAY%[%BLACK%¯ %BLUE%ð%BLACK% ¯%GRAY%]
-ItemDisplay[CLVL<16 mp1]: %GRAY%[%BLACK%¯ %BLUE%ð%BLACK% ¯%GRAY%]
+ItemDisplay[CLVL<80 hp4]: %BLACK%¯ %RED%ð%BLACK% ¯
+ItemDisplay[CLVL<49 hp3]: %BLACK%¯ %RED%ð%BLACK% ¯
+ItemDisplay[CLVL<25 hp2]: %BLACK%¯ %RED%ð%BLACK% ¯
+ItemDisplay[CLVL<13 hp1]: %BLACK%¯ %RED%ð%BLACK% ¯
+ItemDisplay[CLVL<80 mp4]: %BLACK%¯ %BLUE%ð%BLACK% ¯
+ItemDisplay[CLVL<61 mp3]: %BLACK%¯ %BLUE%ð%BLACK% ¯
+ItemDisplay[CLVL<31 mp2]: %BLACK%¯ %BLUE%ð%BLACK% ¯
+ItemDisplay[CLVL<16 mp1]: %BLACK%¯ %BLUE%ð%BLACK% ¯
 ItemDisplay[leg]: %TAN%WIRT'§ £EG
 ItemDisplay[ear]: %RED%%NAME%
-ItemDisplay[CLVL<80 yps]: %GRAY%[%BLACK%¯%GREEN%ð%BLACK%¯%GRAY%]
-//ItemDisplay[CLVL>81 yps]: %GRAY%[%BLACK%¯%GREEN%ð%BLACK%¯%GRAY%]
+ItemDisplay[CLVL<80 yps]: %BLACK%¯%GREEN%ð%BLACK%¯
+//ItemDisplay[CLVL>81 yps]: %BLACK%¯%GREEN%ð%BLACK%¯
 ItemDisplay[yps]:
-ItemDisplay[CLVL<20 wms]: %GRAY%[%BLACK%¯%YELLOW%ð%BLACK%¯%GRAY%]
+ItemDisplay[CLVL<20 wms]: %BLACK%¯%YELLOW%ð%BLACK%¯
 ItemDisplay[wms]:
-ItemDisplay[CLVL<20 vps]: %GRAY%[%BLACK%¯%WHITE%ð%BLACK%¯%GRAY%]
+ItemDisplay[CLVL<20 vps]: %BLACK%¯%WHITE%ð%BLACK%¯
 ItemDisplay[vps]:
 ItemDisplay[gpm]:
 ItemDisplay[opm]:
@@ -172,38 +171,39 @@ ItemDisplay[CLVL<20 skc]: %BLACK%»%GRAY%skull
 //║ RUNES ║
 //╚═══════╝
 ItemDisplay[RW]: %NAME%
-ItemDisplay[r01]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%1
-ItemDisplay[r02]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%2
-ItemDisplay[r03]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%3
-ItemDisplay[r04]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%4
-ItemDisplay[r05]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%5
-ItemDisplay[r06]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%6
-ItemDisplay[r07]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%7
-ItemDisplay[r08]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%8
-ItemDisplay[r09]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%9
-ItemDisplay[r10]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%10
-ItemDisplay[r11]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%11
-ItemDisplay[r12]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%12
-ItemDisplay[r13]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%13
-ItemDisplay[r14]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%14
-ItemDisplay[r15]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%15
-ItemDisplay[r16]: %RED%!%TAN%%RUNENAME%%RED%! %GRAY%16
-ItemDisplay[r17]: %RED%!¤ %ORANGE%%RUNENAME% %RED%¤! %GRAY%17
-ItemDisplay[r18]: %RED%!¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤¤! %GRAY%18
-ItemDisplay[r19]: %RED%!¤¤ %ORANGE%%RUNENAME% %RED%¤¤! %GRAY%19
-ItemDisplay[r20]: %RED%!¤¤¤¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤¤¤¤¤! %GRAY%20
-ItemDisplay[r21]: %RED%!¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤! %GRAY%21
-ItemDisplay[r22]: %RED%!¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤! %GRAY%22
-ItemDisplay[r23]: %RED%!¤¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤¤! %GRAY%23 
-ItemDisplay[r24]: %RED%!¤¤¤¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤¤¤¤! %GRAY%24
-ItemDisplay[r25]: %RED%!¤¤¤¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤¤¤¤! %GRAY%25
-ItemDisplay[r26]: %GREEN%26 %RED%!¤¤¤¤GG¤¤¤¤ %PURPLE%VEX %RED%¤¤¤¤GG¤¤¤¤! %GREEN%26
-ItemDisplay[r27]: %GREEN%27 %RED%!¤¤¤¤GG¤¤¤¤ %PURPLE%OHM %RED%¤¤¤¤GG¤¤¤¤! %GREEN%27
-ItemDisplay[r29]: %GREEN%29 %PURPLE%!¤¤¤¤¤¤¤¤¤¤¤ %RED%SUR %PURPLE%¤¤¤¤¤¤¤¤¤¤¤! %GREEN%29
-ItemDisplay[r30]: %GREEN%30 %PURPLE%!¤¤¤¤¤¤GG¤¤¤¤¤¤ %RED%BER %PURPLE%¤¤¤¤¤GG¤¤¤¤¤¤! %GREEN%30
-ItemDisplay[r31]: %GREEN%31 %PURPLE%!¤¤¤¤¤¤GG¤¤¤¤¤¤¤ %RED%JAH %PURPLE%¤¤¤¤¤GG¤¤¤¤¤¤! %GREEN%31
-ItemDisplay[r32]: %GREEN%32 %PURPLE%!¤¤¤¤¤¤¤¤¤¤ %RED%CHAM %PURPLE%¤¤¤¤¤¤¤¤¤¤! %GREEN%32
-ItemDisplay[r33]: %GREEN%33 %PURPLE%!¤¤¤¤¤¤¤¤¤¤¤ %RED%ZOD %PURPLE%¤¤¤¤¤¤¤¤¤¤¤! %GREEN%33
+ItemDisplay[r01]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%1
+ItemDisplay[r02]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%2
+ItemDisplay[r03]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%3
+ItemDisplay[r04]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%4
+ItemDisplay[r05]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%5
+ItemDisplay[r06]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%6
+ItemDisplay[r07]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%7
+ItemDisplay[r08]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%8
+ItemDisplay[r09]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%9
+ItemDisplay[r10]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%10
+ItemDisplay[r11]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%11
+ItemDisplay[r12]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%12
+ItemDisplay[r13]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%13
+ItemDisplay[r14]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%14
+ItemDisplay[r15]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%15
+ItemDisplay[r16]: %RED%! %TAN%%RUNENAME%%RED%! %GRAY%16
+ItemDisplay[r17]: %RED%¤ %ORANGE%%RUNENAME% %RED%¤ %GRAY%17
+ItemDisplay[r18]: %RED%¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤¤ %GRAY%18
+ItemDisplay[r19]: %RED%¤¤ %ORANGE%%RUNENAME% %RED%¤¤ %GRAY%19
+ItemDisplay[r20]: %RED%¤¤¤¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤¤¤¤¤ %GRAY%20
+ItemDisplay[r21]: %RED%¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤ %GRAY%21
+ItemDisplay[r22]: %RED%¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤ %GRAY%22
+ItemDisplay[r23]: %RED%¤¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤¤ %GRAY%23
+ItemDisplay[r24]: %RED%¤¤¤¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤¤¤¤ %GRAY%24
+ItemDisplay[r25]: %RED%¤¤¤¤¤¤¤¤ %PURPLE%%RUNENAME% %RED%¤¤¤¤¤¤¤¤ %GRAY%25
+ItemDisplay[r26]: %GREEN%26 %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%VEX %RED%¤¤¤¤¤¤¤¤¤¤ %GREEN%26
+ItemDisplay[r27]: %GREEN%27 %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%OHM %RED%¤¤¤¤¤¤¤¤¤¤ %GREEN%27
+ItemDisplay[r28]: %GREEN%28 %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %RED%LO %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %GREEN%28
+ItemDisplay[r29]: %GREEN%29 %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %RED%SUR %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %GREEN%29
+ItemDisplay[r30]: %GREEN%30 %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %RED%BER %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %GREEN%30
+ItemDisplay[r31]: %GREEN%31 %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %RED%JAH %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %GREEN%31
+ItemDisplay[r32]: %GREEN%32 %PURPLE%¤¤¤¤¤¤¤¤¤¤ %RED%CHAM %PURPLE%¤¤¤¤¤¤¤¤¤¤ %GREEN%32
+ItemDisplay[r33]: %GREEN%33 %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %RED%ZOD %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %GREEN%33
 //╔══════════╗
 //║ CRAFTING ║
 //╚══════════╝
@@ -288,11 +288,11 @@ ItemDisplay[ID UNI !SOCK=0 ETH]: %NAME% %BLUE%eth (%SOCKETS%)
 ItemDisplay[MAG !ID amu ILVL<88]: %BLACK%÷ %BLUE%%NAME% %BLACK%÷
 ItemDisplay[MAG !ID amu ILVL=88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK%÷ 
 ItemDisplay[MAG !ID amu ILVL>88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL<50]: %BLACK%÷ %BLUE%%NAME% %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL=50]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL>50]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID cm1]: %BLUE%°%RED% charm %BLUE%°
-ItemDisplay[MAG !ID cm3]: %BLUE%Ö%RED% CHARM %BLUE%Ö
+ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %GRAY%%NAME% %BLACK%÷
+ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
+ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
+ItemDisplay[MAG !ID cm1]: %BLUE%° %RED%s.charm %BLUE%°
+ItemDisplay[MAG !ID cm3]: %BLUE%Ö %RED%G.CHARM %BLUE%Ö
 ItemDisplay[MAG !ID cm2 ILVL<88]: %BLUE%< %TAN%large %BLUE%>
 ItemDisplay[MAG !ID cm2 ILVL=88]: %BLUE%< %TAN%large %BLUE%>
 ItemDisplay[MAG !ID cm2 ILVL>88]: %BLACK%< %GRAY%large %BLACK%>
@@ -619,30 +619,26 @@ ItemDisplay[NMAG CL3 SOCK=0 !ETH ILVL<67]: %NAME%
 ItemDisplay[NMAG CL3 SOCK=0 ETH ILVL<67]: %NAME% %BLUE%eth
 ItemDisplay[NMAG CL3 SOCK=0 ILVL>66]:
 // CL4
-ItemDisplay[NMAG SK67>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Teeth Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK83>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Desecrate Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK84>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Spear Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK92>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Poison Nova Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK68>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Armor Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK73>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Deadly Poison Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK85>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Blood Golem Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK94>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Fire Golem Shield%WHITE% - ("Rhyme"/"ancient pledge"?%RED%-Larzuk)
-ItemDisplay[NMAG SK67>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Teeth Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK83>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Desecrate Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK84>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Spear Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK92>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Poison Nova Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK68>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Armor Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK73>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Deadly Poison Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK85>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Blood Golem Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK94>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Fire Golem Shield %BLUE%(%SOCKETS%)%WHITE% - ("Rhyme"?)
-ItemDisplay[NMAG SK67=2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+2 %ORANGE%Teeth Wand %WHITE% ("white" base)%RED% LARZUK
-ItemDisplay[NMAG SK83=2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+2 %ORANGE%Desecrate Wand %WHITE% ("white" base)%RED% LARZUK
-ItemDisplay[NMAG SK84=2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+2 %ORANGE%Bone Spear Wand %WHITE% ("white" base)%RED% LARZUK
-ItemDisplay[NMAG SK92=2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+2 %ORANGE%Poison Nova Wand %WHITE% ("white" base)%RED% LARZUK
-ItemDisplay[NMAG SK67>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Teeth Wand %WHITE% ("white" base)%RED% LARZUK
-ItemDisplay[NMAG SK83>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Desecrate Wand %WHITE% ("white" base)%RED% LARZUK
-ItemDisplay[NMAG SK84>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Bone Spear Wand %WHITE% ("white" base)%RED% LARZUK
-ItemDisplay[NMAG SK92>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Poison Nova Wand %WHITE% ("white" base)%RED% LARZUK
+ItemDisplay[NMAG SK67>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Teeth Shield
+ItemDisplay[NMAG SK83>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Desecrate Shield
+ItemDisplay[NMAG SK84>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Spear Shield
+ItemDisplay[NMAG SK92>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Poison Nova Shield
+ItemDisplay[NMAG SK68>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Armor Shield
+ItemDisplay[NMAG SK73>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Deadly Poison Shield
+ItemDisplay[NMAG SK85>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Blood Golem Shield
+ItemDisplay[NMAG SK94>2 SOCK=0 CL4 !ETH]: %WHITE%+3 %ORANGE%Fire Golem Shield
+ItemDisplay[NMAG SK67>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Teeth Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK83>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Desecrate Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK84>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Spear Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK92>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Poison Nova Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK68>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Bone Armor Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK73>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Deadly Poison Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK85>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Blood Golem Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK94>2 SOCK=2 CL4 !ETH]: %WHITE%+3 %ORANGE%Fire Golem Shield %BLUE%(%SOCKETS%)
+ItemDisplay[NMAG SK67>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Teeth Wand
+ItemDisplay[NMAG SK83>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Desecrate Wand
+ItemDisplay[NMAG SK84>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Bone Spear Wand
+ItemDisplay[NMAG SK92>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Poison Nova Wand
 ItemDisplay[NMAG SK68>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Bone Armor Wand
 ItemDisplay[NMAG SK73>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Deadly Poison Wand
 ItemDisplay[NMAG SK85>2 SOCK=0 WP12 !wnd !ywn !9wn]: %WHITE%+3 %ORANGE%Blood Golem Wand
@@ -1414,7 +1410,7 @@ ItemDisplay[UNI !ID utu ETH]: %GOLD%¤ eth The Gladiator's Bane ¤
 ItemDisplay[UNI !ID upl ETH]: %GOLD%¤ eth Arkaine's Valor ¤
 ItemDisplay[UNI !ID xlt ETH]: %GOLD%¤ eth Guardian Angel ¤
 ItemDisplay[UNI !ID uui ETH]: %GOLD%¤ eth Ormus' Robes ¤
-ItemDisplay[UNI !ID xhn ETH]: %GOLD%¤¤¤ %RED%eth %GOLD%Shaftstop ¤¤¤
+ItemDisplay[UNI !ID xhn ETH]: %GOLD%¤ eth Shaftstop ¤
 ItemDisplay[UNI !ID xar ETH]: %GOLD%¤ eth Corpsemourn ¤
 ItemDisplay[UNI !ID xrs ETH]: %GOLD%¤ eth Duriel's Shell ¤
 ItemDisplay[UNI !ID lea ETH]: %GOLD%¤ eth Blinkbat's Form ¤
