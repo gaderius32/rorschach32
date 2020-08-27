@@ -129,20 +129,20 @@ ItemDisplay[MAG ID WP13 (TABSK24>2 AND SK121>2)]: %PURPLE%+++++ %ORANGE%FOH SCEP
 //╔══════╗
 //║ GEMS ║
 //╚══════╝
-ItemDisplay[gpv]: %BLACK%«%PURPLE%Amethyst%BLACK%»%PURPLE%WEAPON
-ItemDisplay[gpw]: %BLACK%«%WHITE%Diamond%BLACK%»
-ItemDisplay[gpg]: %BLACK%«%GREEN%Emerald%BLACK%»
-ItemDisplay[gpr]: %BLACK%«%RED%Ruby%BLACK%»
-ItemDisplay[gpb]: %BLACK%«%BLUE%Sapphire%BLACK%»
-ItemDisplay[gpy]: %BLACK%«%YELLOW%Topaz%BLACK%»%PURPLE%ARMOR
-ItemDisplay[skz]: %BLACK%«%ORANGE%Skull%BLACK%»
-ItemDisplay[gzv]: %PURPLE%««%GRAY%Amethyst%PURPLE%»»%PURPLE%WEAPON
-ItemDisplay[glw]: %WHITE%««%GRAY%Diamond%WHITE%»»
-ItemDisplay[glg]: %GREEN%««%GRAY%Emerald%GREEN%»»
-ItemDisplay[glr]: %RED%««%GRAY%Ruby%RED%»»
-ItemDisplay[glb]: %BLUE%««%GRAY%Sapphire%BLUE%»»
-ItemDisplay[gly]: %YELLOW%««%GRAY%Topaz%YELLOW%»»%PURPLE%ARMOR
-ItemDisplay[skl]: %ORANGE%««%GRAY%Skull%ORANGE%»»
+ItemDisplay[gpv]: %ORANGE%PERFECT Amethyst%PURPLE%(WEAPON)
+ItemDisplay[gpw]: %ORANGE%PERFECT Diamond
+ItemDisplay[gpg]: %ORANGE%PERFECT GREEN%Emerald
+ItemDisplay[gpr]: %ORANGE%PERFECT RED%Ruby
+ItemDisplay[gpb]: %ORANGE%PERFECT BLUE
+ItemDisplay[gpy]: %ORANGE%PERFECT YELLOW%Topaz%PURPLE%(ARMOR)
+ItemDisplay[skz]: %ORANGE%PERFECT Skull
+ItemDisplay[gzv]: %ORANGE%Amethyst%PURPLE%(WEAPON)
+ItemDisplay[glw]: %ORANGE%Diamond
+ItemDisplay[glg]: %ORANGE%Emerald
+ItemDisplay[glr]: %ORANGE%Ruby
+ItemDisplay[glb]: %ORANGE%Sapphire
+ItemDisplay[gly]: %ORANGE%Topaz%PURPLE%(ARMOR)
+ItemDisplay[skl]: %ORANGE%Skull
 ItemDisplay[CLVL>39 (gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku)]:
 ItemDisplay[CLVL>29 (gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf)]:
 ItemDisplay[CLVL>19 (gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]:
