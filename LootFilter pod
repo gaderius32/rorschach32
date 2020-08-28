@@ -15,15 +15,15 @@ ItemDisplay[ma2]: %PURPLE%¤¤¤¤ %RED%TIER %PURPLE%4 %RED%MAP %PURPLE%¤¤¤¤
 ItemDisplay[ma6]: %RED%³ %GOLD%Tier %RED%3 %GOLD%Map %RED%³
 ItemDisplay[ma5]: %RED%² %YELLOW%Tier %RED%2 %YELLOW%Map %RED%²
 ItemDisplay[ma4]: %RED%¹ %DGREEN%Tier %RED%1 %DGREEN%Map %RED%¹
-ItemDisplay[fed]: %GREEN%¤¤¤¤¤¤¤¤¤¤ ESSENCE ¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[fed]: %GREEN%¤¤¤¤¤¤¤¤¤¤ ESSENCE%ORANGE%(ONLY ONE ACTUALLY WORTH SOMETHING)¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[tes]: %BLUE%¤¤¤ ESSENCE ¤¤¤
 ItemDisplay[ceh]: %YELLOW%¤¤¤ ESSENCE ¤¤¤
 ItemDisplay[bet]: %RED%¤¤¤ ESSENCE ¤¤¤
 ItemDisplay[toa]: %PURPLE%¤¤¤¤¤ TOKEN ¤¤¤¤¤
-ItemDisplay[cx7]: %TAN%ÎÎÎ %ORANGE%CHAOS %TAN%ÎÎÎ
-ItemDisplay[pk1]: %TAN%ÎÎÎ %PURPLE%TERROR %TAN%ÎÎÎ
-ItemDisplay[pk3]: %TAN%ÎÎÎ %YELLOW%DESTRUCTION %TAN%ÎÎÎ
-ItemDisplay[pk2]: %TAN%ÎÎÎ %GREEN%HATE %TAN%ÎÎÎ
+ItemDisplay[cx7]: %TAN%ÎÎÎÎÎ %ORANGE%CHAOS KEY%TAN%ÎÎÎÎÎ
+ItemDisplay[pk1]: %TAN%ÎÎÎÎÎ %PURPLE%TERROR KEY%TAN%ÎÎÎÎÎ
+ItemDisplay[pk3]: %TAN%ÎÎÎÎÎ %YELLOW%DESTRUCTION KEY%TAN%ÎÎÎÎÎ
+ItemDisplay[pk2]: %TAN%ÎÎÎÎÎ %GREEN%HATE KEY%TAN%ÎÎÎÎÎ
 ItemDisplay[bey]: %PURPLE%üüü %WHITE%EYE %PURPLE%üüü
 ItemDisplay[dhn]: %PURPLE%üüü %TAN%HORN %PURPLE%üüü
 ItemDisplay[mbr]: %PURPLE%üüü %YELLOW%BRAIN %PURPLE%üüü
