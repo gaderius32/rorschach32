@@ -293,9 +293,9 @@ ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK
 ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
 ItemDisplay[MAG !ID cm1]: %BLUE%°° %RED%s.charm %BLUE%°°
 ItemDisplay[MAG !ID cm3]: %BLUE%ÖÖ %RED%G.CHARM %BLUE%ÖÖ
-ItemDisplay[MAG !ID cm2 ILVL<88]: %BLUE%< %RED%large (res?)%BLUE%>
-ItemDisplay[MAG !ID cm2 ILVL=88]: %BLUE%< %RED%large (res?)%BLUE%>
-ItemDisplay[MAG !ID cm2 ILVL>88]: %BLACK%< %RED%large (res?)%BLACK%>
+ItemDisplay[MAG !ID cm2 ILVL<88]: %BLUE%< %RED%large %BLUE%>
+ItemDisplay[MAG !ID cm2 ILVL=88]: %BLUE%< %RED%large %BLUE%>
+ItemDisplay[MAG !ID cm2 ILVL>88]: %BLACK%< %RED%large %BLACK%>
 ItemDisplay[MAG !ID ci2 !ETH]: %RED%÷ %BLUE%%NAME% %RED%÷
 ItemDisplay[MAG !ID ci3 !ETH]: %RED%÷ %BLUE%%NAME% %RED%÷
 ItemDisplay[MAG !ID jew]: %RED%¤%ORANGE%¤%YELLOW%¤%GREEN%¤ %BLUE%%NAME% %GREEN%¤%YELLOW%¤%ORANGE%¤%RED%¤ 
@@ -308,8 +308,8 @@ ItemDisplay[MAG !ID ILVL>66]:
 //╔═══════╗
 //║ RARES ║
 //╚═══════╝
-ItemDisplay[RARE !ID aq2]: × %NAME% ×
-ItemDisplay[RARE !ID cq2]: × %NAME% ×
+ItemDisplay[RARE !ID aq2]: × %NAME% × %RED% (PHYS DMG/RES/MF/DEADLY STRIKE)
+ItemDisplay[RARE !ID cq2]: × %NAME% × %RED% (PHYS DMG/RES/MF/DEADLY STRIKE)
 ItemDisplay[RARE !ID amu]: %RED%÷÷ %YELLOW%%NAME% %RED%÷÷
 ItemDisplay[RARE !ID rin]: %RED%÷÷ %YELLOW%%NAME% %RED%÷÷
 ItemDisplay[RARE !ID jew]: %YELLOW%¤¤¤¤ %RED%J%ORANGE%E%YELLOW%W%GREEN%E%BLUE%L %YELLOW%¤¤¤¤
@@ -1659,7 +1659,7 @@ ItemDisplay[UNI !ID 8s8]: %GOLD%¤ Witchwild String ¤
 ItemDisplay[UNI !ID 8lb]: %GOLD%¤ Kuko Shakaku ¤
 ItemDisplay[UNI !ID 8l8]: %GOLD%¤ %WHITE%Cliffkiller %GOLD%¤
 ItemDisplay[UNI !ID hbw]: %GOLD%¤ %WHITE%Witherstring %GOLD%¤
-ItemDisplay[UNI !ID aq2]: %GOLD%????? %RED%Arrows %GOLD%?????
+ItemDisplay[UNI !ID aq2]: %GOLD%¤ %WHITE%Arrows %GOLD%¤
 // WP10
 ItemDisplay[UNI !ID rxb]: %GOLD%¤¤¤ %RED%Doomslinger%ORANGE%(SOCKET CORRUP) %GOLD%¤¤¤
 ItemDisplay[UNI !ID 8hx]: %GOLD%¤ Buriza-Do Kyanon ¤
