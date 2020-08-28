@@ -464,7 +464,7 @@ ItemDisplay[SET !ID rin ILVL<87]: %GREEN%÷ %DGREEN%%NAME% %GREEN%÷
 ItemDisplay[SET !ID uar]: %GREEN%¤¤¤¤¤ %PURPLE%Immortal King's Soul Cage %GREEN%¤¤¤¤¤
 ItemDisplay[SET !ID uth]: %GREEN%¤¤¤¤¤ %PURPLE%Tal Rasha's Guardianship %GREEN%¤¤¤¤¤
 ItemDisplay[SET !ID 7qr]: %GREEN%¤¤¤¤¤ %PURPLE%Natalya's Mark %GREEN%¤¤¤¤¤
-ItemDisplay[SET !ID uhm]: %GREEN%¤¤¤¤¤ %PURPLE%Ondal's Almighty %GREEN%¤¤¤¤¤
+ItemDisplay[SET !ID uhm]: %GREEN%¤¤¤¤¤ %RED%Ondal's Almighty %GREEN%¤¤¤¤¤
 ItemDisplay[SET !ID xtb]: %GREEN%¤¤¤ %PURPLE%Aldur's Advance %GREEN%¤¤¤
 ItemDisplay[SET !ID ulg]: %GREEN%¤¤¤ %PURPLE%Laying of Hands %GREEN%¤¤¤
 ItemDisplay[SET !ID xhm]: %GREEN%¤¤¤ %PURPLE%Guillame's Face %GREEN%¤¤¤
@@ -1369,22 +1369,22 @@ ItemDisplay[UNI ETH !ID xkp]: %GOLD%¤ %WHITE%eth Rockstopper %GOLD%¤
 ItemDisplay[UNI ETH !ID xlm]: %GOLD%¤ %WHITE%eth Stealskull %GOLD%¤
 // EQ2
 ItemDisplay[UNI !ID uar !ETH]: %GOLD%????? %PURPLE%Sacred Armor %GOLD%?????
-ItemDisplay[UNI !ID uui !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Ormus' Robes %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID xhn !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Shaftstop %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID uui !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Ormus' Robes%ORANGE%(GOOD BUT NO MF) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID xhn !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Shaftstop%ORANGE%(NICE MERC CHEST // CORRUP-> 4OS = BEST CHEST) %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID upl !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Arkaine's Valor %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID xea !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Skin of the Vipermagi %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID xlt !ETH]: %GOLD%¤¤¤ %PURPLE%Guardian Angel %GOLD%¤¤¤
-ItemDisplay[UNI !ID xpl !ETH]: %GOLD%¤¤¤¤¤¤ %RED%Skullder's Ire %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID utu !ETH]: %GOLD%¤¤¤¤¤ %RED%The Gladiator's Bane %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID uld !ETH]: %GOLD%¤¤¤¤¤ %RED%Leviathan %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID xtp !ETH]: %GOLD%¤¤¤ %RED%Que-Hegan's Wisdom %GOLD%¤¤¤
-ItemDisplay[UNI !ID xrs !ETH]: %GOLD%¤¤¤ %RED%Duriel's Shell %GOLD%¤¤¤
-ItemDisplay[UNI !ID xar !ETH]: %GOLD%¤¤¤ %RED%Corpsemourn %GOLD%¤¤¤
-ItemDisplay[UNI !ID qui !ETH]: %GOLD%¤ %RED%Greyform %GOLD%¤
-ItemDisplay[UNI !ID plt !ETH]: %GOLD%¤ %RED%Boneflesh %GOLD%¤
-ItemDisplay[UNI !ID lea !ETH]: %GOLD%¤ %RED%Blinkbat's Form %GOLD%¤
-ItemDisplay[UNI !ID gth !ETH]: %GOLD%¤ %RED%Rattlecage %GOLD%¤
-ItemDisplay[UNI !ID xui !ETH]: %GOLD%¤ %RED%The Spirit Shroud %GOLD%¤
+ItemDisplay[UNI !ID xea !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Skin of the Vipermagi%ORANGE%(CHECK RES ROLL) %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID xlt !ETH]: %GOLD%¤¤¤ %PURPLE%Guardian Angel%ORANGE%(NEED TO CORRUP) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xpl !ETH]: %GOLD%¤¤¤¤¤¤ %RED%Skullder's Ire%ORANGE%(GG EARLY LEAGUE(MF)) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID utu !ETH]: %GOLD%¤¤¤¤¤ %RED%The Gladiator's Bane%TAN%(LEVELING ITEM) %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID uld !ETH]: %GOLD%¤¤¤¤¤ %RED%Leviathan%TAN%(LEVELING ITEM) %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID xtp !ETH]: %GOLD%¤¤¤ %RED%Que-Hegan's Wisdom%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xrs !ETH]: %GOLD%¤¤¤ %RED%Duriel's Shell%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xar !ETH]: %GOLD%¤¤¤ %RED%Corpsemourn%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID qui !ETH]: %GOLD%¤ %RED%Greyform%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID plt !ETH]: %GOLD%¤ %RED%Boneflesh%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID lea !ETH]: %GOLD%¤ %RED%Blinkbat's Form%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID gth !ETH]: %GOLD%¤ %RED%Rattlecage%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID xui !ETH]: %GOLD%¤ %RED%The Spirit Shroud%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID ful !ETH]: %GOLD%¤ %WHITE%Goldskin %GOLD%¤
 ItemDisplay[UNI !ID xla !ETH]: %GOLD%¤ %WHITE%Skin of the Flayed One %GOLD%¤
 ItemDisplay[UNI !ID uul !ETH]: %GOLD%¤ %WHITE%Steel Carapace %GOLD%¤
@@ -1419,14 +1419,14 @@ ItemDisplay[UNI !ID plt ETH]: %GOLD%¤ eth Boneflesh ¤
 ItemDisplay[UNI !ID ful ETH]: %GOLD%¤ eth Goldskin ¤
 ItemDisplay[UNI !ID gth ETH]: %GOLD%¤ eth Rattlecage ¤
 // EQ3
-ItemDisplay[UNI !ID uit !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%STORMSHIELD %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID xow !ETH]: %GOLD%¤¤¤ %RED%Gerke's Sanctuary %GOLD%¤¤¤
-ItemDisplay[UNI !ID uow !ETH]: %GOLD%¤¤¤ %RED%Medusa's Gaze %GOLD%¤¤¤
-ItemDisplay[UNI !ID xsh !ETH]: %GOLD%¤¤¤ %RED%Lidless Wall %GOLD%¤¤¤
-ItemDisplay[UNI !ID uts !ETH]: %GOLD%¤¤¤ %RED%Spirit Ward %GOLD%¤¤¤
-ItemDisplay[UNI !ID xml !ETH]: %GOLD%¤ %RED%Moser's Blessed Circle %GOLD%¤
-ItemDisplay[UNI !ID xts !ETH]: %GOLD%¤ %RED%Radament's Sphere %GOLD%¤
-ItemDisplay[UNI !ID xpk !ETH]: %GOLD%¤ %RED%Lance Guard %GOLD%¤
+ItemDisplay[UNI !ID uit !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%STORMSHIELD%ORANGE%(GG ENDGAME BLOCK SHIELD) %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID xow !ETH]: %GOLD%¤¤¤ %RED%Gerke's Sanctuary%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID uow !ETH]: %GOLD%¤¤¤ %RED%Medusa's Gaze%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xsh !ETH]: %GOLD%¤¤¤ %RED%Lidless Wall%TAN%(LEVELING ITEM - NICE %MANA) %GOLD%¤¤¤
+ItemDisplay[UNI !ID uts !ETH]: %GOLD%¤¤¤ %RED%Spirit Ward%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xml !ETH]: %GOLD%¤ %RED%Moser's Blessed Circle%TAN%(LEVELING ITEM - RES SHIELD (ADD PERFECT DIAMONDS)) %GOLD%¤
+ItemDisplay[UNI !ID xts !ETH]: %GOLD%¤ %RED%Radament's Sphere%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID xpk !ETH]: %GOLD%¤ %RED%Lance Guard%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID uml !ETH]: %GOLD%¤ Blackoak Shield ¤
 ItemDisplay[UNI !ID upk !ETH]: %GOLD%¤ Spike Thorn ¤
 ItemDisplay[UNI !ID xuc !ETH]: %GOLD%¤ Visceratuant ¤
@@ -1453,13 +1453,13 @@ ItemDisplay[UNI !ID kit ETH]: %GOLD%¤ %WHITE%eth Steelclash %GOLD%¤
 ItemDisplay[UNI !ID gts ETH]: %GOLD%¤ %WHITE%eth The Ward %GOLD%¤
 // EQ4
 ItemDisplay[UNI !ID uvg !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Dracul's Grasp %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID hgl !ETH]: %GOLD%¤¤¤¤¤ %RED%Frostburn %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID tgl !ETH]: %GOLD%¤¤¤ %RED%Magefist %GOLD%¤¤¤
-ItemDisplay[UNI !ID xtg !ETH]: %GOLD%¤¤¤ %RED%Lava Gout %GOLD%¤¤¤
-ItemDisplay[UNI !ID xmg !ETH]: %GOLD%¤¤ %RED%Ghoulhide %GOLD%¤¤
-ItemDisplay[UNI !ID uhg !ETH]: %GOLD%¤ %RED%Steelrend %GOLD%¤
-ItemDisplay[UNI !ID umg !ETH]: %GOLD%¤ %RED%Soul Drainer %GOLD%¤
-ItemDisplay[UNI !ID vgl !ETH]: %GOLD%¤ %RED%Bloodfist %GOLD%¤
+ItemDisplay[UNI !ID hgl !ETH]: %GOLD%¤¤¤ %RED%Frostburn%ORANGE%(%MANA ROLL) %GOLD%¤¤¤
+ItemDisplay[UNI !ID tgl !ETH]: %GOLD%¤¤¤ %RED%Magefist%ORANGE%(20% FCR GLOVES) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xtg !ETH]: %GOLD%¤ Lava Gout %GOLD%¤
+ItemDisplay[UNI !ID xmg !ETH]: %GOLD%¤ %RED%Ghoulhide%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID uhg !ETH]: %GOLD%¤ %RED%Steelrend%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID umg !ETH]: %GOLD%¤ %RED%Soul Drainer%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID vgl !ETH]: %GOLD%¤ %RED%Bloodfist%TAN%(BIG FHR) %GOLD%¤
 ItemDisplay[UNI !ID lgl !ETH]: %GOLD%¤ The Hand of Broc ¤
 ItemDisplay[UNI !ID mgl !ETH]: %GOLD%¤ Chance Guards ¤
 ItemDisplay[UNI !ID xlg !ETH]: %GOLD%¤ Venom Grip ¤
@@ -1470,18 +1470,18 @@ ItemDisplay[UNI !ID uvg ETH]: %GOLD%¤ %WHITE%eth Dracul's Grasp %GOLD%¤
 ItemDisplay[UNI !ID uhg ETH]: %GOLD%¤ %WHITE%eth Steelrend %GOLD%¤
 ItemDisplay[UNI !ID xtg ETH]: %GOLD%¤ %WHITE%eth Lava Gout %GOLD%¤
 // EQ5
-ItemDisplay[UNI !ID xtb !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%War Traveler %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID xhb !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Gore Rider %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID xmb !ETH]: %GOLD%¤¤¤ %PURPLE%Silkweave %GOLD%¤¤¤
-ItemDisplay[UNI !ID uvb !ETH]: %GOLD%¤¤¤ %RED%Sandstorm Trek %GOLD%¤¤¤
-ItemDisplay[UNI !ID lbt !ETH]: %GOLD%¤¤¤ %RED%Hotspur %GOLD%¤¤¤
-ItemDisplay[UNI !ID uhb !ETH]: %GOLD%¤¤¤ %RED%Shadow Dancer %GOLD%¤¤¤
-ItemDisplay[UNI !ID xvb !ETH]: %GOLD%¤ %RED%Waterwalk %GOLD%¤
+ItemDisplay[UNI !ID xtb !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%War Traveler%ORANGE%(CHECK MF ROLL) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID xhb !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Gore Rider%ORANGE%(DMG BOOTS) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID xmb !ETH]: %GOLD%¤¤¤ %PURPLE%Silkweave%ORANGE%(%MANA) %GOLD%¤¤¤
+ItemDisplay[UNI !ID uvb !ETH]: %GOLD%¤¤¤ %RED%Sandstorm Trek%ORANGE%(DEX/POISON RES) %GOLD%¤¤¤
+ItemDisplay[UNI !ID lbt !ETH]: %GOLD%¤¤¤ %RED%Hotspur%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID uhb !ETH]: %GOLD%¤¤¤ %RED%Shadow Dancer%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xvb !ETH]: %GOLD%¤ %RED%Waterwalk%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID xlb !ETH]: %GOLD%¤ Infernostride ¤
 ItemDisplay[UNI !ID umb !ETH]: %GOLD%¤ Marrowwalk ¤
 ItemDisplay[UNI !ID vbt !ETH]: %GOLD%¤ %WHITE%Gorefoot %GOLD%¤
 ItemDisplay[UNI !ID mbt !ETH]: %GOLD%¤ %WHITE%Treads of Cthon %GOLD%¤
-ItemDisplay[UNI !ID tbt !ETH]: %GOLD%¤ %WHITE%Goblin Toe %GOLD%¤
+ItemDisplay[UNI !ID tbt !ETH]: %GOLD%¤ %WHITE%Goblin Toe%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID hbt !ETH]: %GOLD%¤ %WHITE%Tearhaunch %GOLD%¤
 ItemDisplay[UNI !ID uvb ETH]: %GOLD%¤¤¤ %PURPLE%eth Sandstorm Trek %GOLD%¤¤¤
 ItemDisplay[UNI !ID uhb ETH]: %GOLD%¤ eth Shadow Dancer ¤
@@ -1490,13 +1490,13 @@ ItemDisplay[UNI !ID xtb ETH]: %GOLD%¤ %WHITE%eth War Traveler %GOLD%¤
 ItemDisplay[UNI !ID xhb ETH]: %GOLD%¤ %WHITE%eth Gore Rider %GOLD%¤
 ItemDisplay[UNI !ID lbt ETH]: %GOLD%¤ %WHITE%eth Hotspur %GOLD%¤
 // EQ6
-ItemDisplay[UNI !ID ulc !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%ARACHNID MESH %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID umc !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Verdungo's Hearty Cord %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID zhb !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Thundergod's Vigor %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID zlb !ETH]: %GOLD%¤¤¤ %RED%String of Ears %GOLD%¤¤¤
-ItemDisplay[UNI !ID ztb !ETH]: %GOLD%¤¤¤ %RED%Snowclash %GOLD%¤¤¤
-ItemDisplay[UNI !ID zvb !ETH]: %GOLD%¤¤¤ %RED%Razortail %GOLD%¤¤¤
-ItemDisplay[UNI !ID lbl !ETH]: %GOLD%¤¤¤ %RED%Lenymo %GOLD%¤¤¤
+ItemDisplay[UNI !ID ulc !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%ARACHNID MESH%ORANGE%(GG ITEM) %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID umc !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Verdungo's Hearty Cord%ORANGE%(GOOD MELEE BELT) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID zhb !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Thundergod's Vigor%ORANGE%(ZON/MAX LIGHT RES) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID zlb !ETH]: %GOLD%¤¤¤ %RED%String of Ears%ORANGE%(PHYS REDUC/LIFE STEAL) %GOLD%¤¤¤
+ItemDisplay[UNI !ID ztb !ETH]: %GOLD%¤¤¤ %RED%Snowclash%ORANGE%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID zvb !ETH]: %GOLD%¤¤¤ %RED%Razortail%ORANGE%(PIERCE ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID lbl !ETH]: %GOLD%¤¤¤ %RED%Lenymo%TAN%(LEVELING ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID zmb !ETH]: %GOLD%¤ Gloom's Trap ¤
 ItemDisplay[UNI !ID uvc !ETH]: %GOLD%¤ Nosferatu's Coil ¤
 ItemDisplay[UNI !ID mbl !ETH]: %GOLD%¤ %WHITE%Nightsmoke %GOLD%¤
@@ -1509,8 +1509,8 @@ ItemDisplay[UNI !ID uvc ETH]: %GOLD%¤ %WHITE%eth Nosferatu's Coil %GOLD%¤
 ItemDisplay[UNI !ID zhb ETH]: %GOLD%¤ %WHITE%eth Thundergod's Vigor %GOLD%¤
 ItemDisplay[UNI !ID zlb ETH]: %GOLD%¤ %WHITE%eth String of Ears %GOLD%¤
 // EQ7
-ItemDisplay[UNI !ID ci3 !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%GRIFFON'S EYE %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID ci2 !ETH]: %GOLD%¤¤¤ %RED%Kira's Guardian %GOLD%¤¤¤
+ItemDisplay[UNI !ID ci3 !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%GRIFFON'S EYE %ORANGE%(GG ITEM)%GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID ci2 !ETH]: %GOLD%¤¤¤ %RED%Kira's Guardian%ORANGE%(GG ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID ci3 ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%eth Griffon's Eye %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID ci2 ETH]: %GOLD%¤ eth Kira's Guardian ¤
 //╔════════════╗
@@ -1519,9 +1519,9 @@ ItemDisplay[UNI !ID ci2 ETH]: %GOLD%¤ eth Kira's Guardian ¤
 // WP1
 ItemDisplay[UNI !ID 7wa !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Death Cleaver %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID 7gi !ETH]: %GOLD%¤¤¤ %PURPLE%Executioner's Justice %GOLD%¤¤¤
-ItemDisplay[UNI !ID 9mp !ETH]: %GOLD%¤¤¤¤¤ %RED%Pompeii's Wrath %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID 72a !ETH]: %GOLD%¤¤¤ %RED%Rune Master %GOLD%¤¤¤
-ItemDisplay[UNI !ID 7mp !ETH]: %GOLD%¤ %RED%Cranebeak %GOLD%¤
+ItemDisplay[UNI !ID 9mp !ETH]: %GOLD%¤¤¤¤¤ %RED%Pompeii's Wrath%TAN%(LEVELING ITEM) %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID 72a !ETH]: %GOLD%¤¤¤ %RED%Rune Master%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID 7mp !ETH]: %GOLD%¤ %RED%Cranebeak%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID 9ax !ETH]: %GOLD%¤ Butcher's Pupil ¤
 ItemDisplay[UNI !ID 9gi !ETH]: %GOLD%¤ The Minotaur ¤
 ItemDisplay[UNI !ID 7bt !ETH]: %GOLD%¤ Hellslayer ¤
@@ -1533,7 +1533,7 @@ ItemDisplay[UNI !ID mpi !ETH]: %GOLD%¤ %WHITE%Skull Splitter %GOLD%¤
 ItemDisplay[UNI !ID wax !ETH]: %GOLD%¤ %WHITE%Rakescar %GOLD%¤
 ItemDisplay[UNI !ID gix !ETH]: %GOLD%¤ %WHITE%Humongous %GOLD%¤
 ItemDisplay[UNI !ID 7ga !ETH]: %GOLD%¤ %WHITE%Messerschmidt's Reaver %GOLD%¤
-ItemDisplay[UNI !ID 72a ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%eth RUNE MASTER %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID 72a ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%eth RUNE MASTER%ORANGE%(NICE MERC WEAPON) %GOLD%¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[UNI !ID 7wa ETH]: %GOLD%¤ %RED%eth Death Cleaver %GOLD%¤
 ItemDisplay[UNI !ID 7gi ETH]: %GOLD%¤ %RED%eth Executioner's Justice %GOLD%¤
 ItemDisplay[UNI !ID 9ax ETH]: %GOLD%¤ %RED%eth Butcher's Pupil %GOLD%¤
@@ -1543,8 +1543,8 @@ ItemDisplay[UNI !ID 9ba ETH]: %GOLD%¤ %WHITE%eth Spellsteel %GOLD%¤
 ItemDisplay[UNI !ID 7fl !ETH]: %GOLD%????? %PURPLE%Scourge %GOLD%?????
 ItemDisplay[UNI !ID 7wh !ETH]: %GOLD%????? %PURPLE%Legendary Mallet %GOLD%?????
 ItemDisplay[UNI !ID 7gm !ETH]: %GOLD%????? %PURPLE%Thunder Maul %GOLD%?????
-ItemDisplay[UNI !ID 9gm !ETH]: %GOLD%¤¤¤ %RED%The Gavel of Pain %GOLD%¤¤¤
-ItemDisplay[UNI !ID 7sp !ETH]: %GOLD%¤ %RED%Demon Limb %GOLD%¤
+ItemDisplay[UNI !ID 9gm !ETH]: %GOLD%¤¤¤ %RED%The Gavel of Pain%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID 7sp !ETH]: %GOLD%¤ %RED%Demon Limb%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID 7m7 !ETH]: %GOLD%¤ Windhammer ¤
 ItemDisplay[UNI !ID 9wh !ETH]: %GOLD%¤ Earthshaker ¤
 ItemDisplay[UNI !ID gma !ETH]: %GOLD%¤ Steeldriver ¤
@@ -1561,13 +1561,13 @@ ItemDisplay[UNI !ID 7gm ETH]: %GOLD%??? %RED%eth Thunder Maul %GOLD%???
 ItemDisplay[UNI !ID 7sp ETH]: %GOLD%¤¤¤ %RED%eth Demon Limb %GOLD%¤¤¤
 ItemDisplay[UNI !ID 9gm ETH]: %GOLD%¤ %RED%eth The Gavel of Pain %GOLD%¤
 // WP3
-ItemDisplay[UNI !ID 7cr]: %GOLD%????? %PURPLE%Phase Blade %GOLD%?????
-ItemDisplay[UNI !ID 7gd !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%The Grandfather %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID 9cm !ETH]: %GOLD%¤¤¤ %RED%Bing Sz Wang %GOLD%¤¤¤
-ItemDisplay[UNI !ID 9cr !ETH]: %GOLD%¤¤ %RED%Ginther's Rift %GOLD%¤¤
-ItemDisplay[UNI !ID 9fb !ETH]: %GOLD%¤ %RED%Todesfaelle Flamme %GOLD%¤
-ItemDisplay[UNI !ID 9sb !ETH]: %GOLD%¤ %RED%Hexfire %GOLD%¤
-ItemDisplay[UNI !ID 9fc !ETH]: %GOLD%¤ %RED%Ali Baba %GOLD%¤
+ItemDisplay[UNI !ID 7cr]: %GOLD%????? %PURPLE%Phase Blade%ORANGE%(LIGHTSABER?) %GOLD%?????
+ItemDisplay[UNI !ID 7gd !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%The Grandfather%ORANGE%(SOCKET CORRUP) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID 9cm !ETH]: %GOLD%¤¤¤ %RED%Bing Sz Wang%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID 9cr !ETH]: %GOLD%¤¤ %RED%Ginther's Rift%ORANGE%(SOCKET CORRUP) %GOLD%¤¤
+ItemDisplay[UNI !ID 9fb !ETH]: %GOLD%¤ %RED%Todesfaelle Flamme%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID 9sb !ETH]: %GOLD%¤ %RED%Hexfire%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID 9fc !ETH]: %GOLD%¤ %RED%Ali Baba%ORANGE%(MF ITEM -> ON SWITCH) %GOLD%¤
 ItemDisplay[UNI !ID 92h !ETH]: %GOLD%¤ Crainte Vomir ¤
 ItemDisplay[UNI !ID 7b7 !ETH]: %GOLD%¤ Doombringer ¤
 ItemDisplay[UNI !ID 7gs !ETH]: %GOLD%¤ Flamebellow ¤
@@ -1598,18 +1598,18 @@ ItemDisplay[UNI !ID scm ETH]: %GOLD%¤ %WHITE%eth Blood Crescent %GOLD%¤
 ItemDisplay[UNI !ID wsd ETH]: %GOLD%¤ %WHITE%eth Culwen's Point %GOLD%¤
 // WP4
 ItemDisplay[UNI !ID 7kr !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Fleshripper %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID dgr !ETH]: %GOLD%¤ %RED%Gull %GOLD%¤
-ItemDisplay[UNI !ID 7dg !ETH]: %GOLD%¤ %RED%Wizardspike %GOLD%¤
-ItemDisplay[UNI !ID bld !ETH]: %GOLD%¤ %WHITE%Spectral Shard %GOLD%¤
-ItemDisplay[UNI !ID 9bl !ETH]: %GOLD%¤ %WHITE%Stormspike %GOLD%¤
+ItemDisplay[UNI !ID dgr !ETH]: %GOLD%¤ %RED%Gull%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID 7dg !ETH]: %GOLD%¤ %RED%Wizardspike%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID bld !ETH]: %GOLD%¤ %WHITE%Spectral Shard%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID 9bl !ETH]: %GOLD%¤ %WHITE%Stormspike%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID dgr ETH]: %GOLD%¤ %RED%eth Gull %GOLD%¤
 ItemDisplay[UNI !ID 7kr ETH]: %GOLD%¤ eth Fleshripper ¤
 ItemDisplay[UNI !ID 7dg ETH]: %GOLD%¤ eth Wizardspike ¤
 ItemDisplay[UNI !ID bld ETH]: %GOLD%¤ eth Spectral Shard ¤
 ItemDisplay[UNI !ID 9bl ETH]: %GOLD%¤ %WHITE%eth Stormspike %GOLD%¤
 // WP5
-ItemDisplay[UNI !ID 7bk !ETH]: %GOLD%¤¤¤ %PURPLE%Warshrike %GOLD%¤¤¤
-ItemDisplay[UNI !ID 7b8 !ETH]: %GOLD%¤ %RED%Lacerator %GOLD%¤
+ItemDisplay[UNI !ID 7bk !ETH]: %GOLD%¤¤¤ %PURPLE%Warshrike%ORANGE%(THROW BARB) %GOLD%¤¤¤
+ItemDisplay[UNI !ID 7b8 !ETH]: %GOLD%¤ %RED%Lacerator%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID 7ta !ETH]: %GOLD%¤ %WHITE%Gimmershred %GOLD%¤
 ItemDisplay[UNI !ID 9tk !ETH]: %GOLD%¤ %WHITE%Deathbit %GOLD%¤
 ItemDisplay[UNI !ID 9ta !ETH]: %GOLD%¤ %WHITE%The Scalper %GOLD%¤
@@ -1623,9 +1623,9 @@ ItemDisplay[UNI !ID 7ts !ETH]: %GOLD%¤ %WHITE%Gargoyle's Bite %GOLD%¤
 ItemDisplay[UNI !ID 7s7 ETH]: %GOLD%¤ eth Demon's Arch ¤
 ItemDisplay[UNI !ID 7ts ETH]: %GOLD%¤ eth Gargoyle's Bite ¤
 // WP7
-ItemDisplay[UNI !ID 7p7 !ETH]: %GOLD%¤ %RED%Steel Pillar %GOLD%¤
-ItemDisplay[UNI !ID 7sr !ETH]: %GOLD%¤ %RED%Arioc's Needle %GOLD%¤
-ItemDisplay[UNI !ID 7br !ETH]: %GOLD%¤ %RED%Viperfork %GOLD%¤
+ItemDisplay[UNI !ID 7p7 !ETH]: %GOLD%¤ %RED%Steel Pillar%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID 7sr !ETH]: %GOLD%¤ %RED%Arioc's Needle%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID 7br !ETH]: %GOLD%¤ %RED%Viperfork%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID 9st !ETH]: %GOLD%¤ Hone Sundan ¤
 ItemDisplay[UNI !ID 9sr !ETH]: %GOLD%¤ %WHITE%The Impaler %GOLD%¤
 ItemDisplay[UNI !ID 9tr !ETH]: %GOLD%¤ %WHITE%Kelpie Snare %GOLD%¤
@@ -1635,10 +1635,10 @@ ItemDisplay[UNI !ID 7p7 ETH]: %GOLD%¤¤¤ %RED%eth Steel Pillar %GOLD%¤¤¤
 ItemDisplay[UNI !ID 7sr ETH]: %GOLD%¤ eth Arioc's Needle ¤
 ItemDisplay[UNI !ID 7br ETH]: %GOLD%¤ %WHITE% eth Viperfork %GOLD%¤
 // WP8
-ItemDisplay[UNI !ID 7s8 !ETH]: %GOLD%¤¤¤ %PURPLE%The Reaper's Toll %GOLD%¤¤¤
+ItemDisplay[UNI !ID 7s8 !ETH]: %GOLD%¤¤¤ %PURPLE%The Reaper's Toll%ORANGE%(SOCKET CORRUP) %GOLD%¤¤¤
 ItemDisplay[UNI !ID 7wc !ETH]: %GOLD%¤¤¤ %RED%Stormspire %GOLD%¤¤¤
 ItemDisplay[UNI !ID 7pa !ETH]: %GOLD%¤ %RED%Tomb Reaver %GOLD%¤
-ItemDisplay[UNI !ID 7o7 !ETH]: %GOLD%¤ %RED%Bonehew %GOLD%¤
+ItemDisplay[UNI !ID 7o7 !ETH]: %GOLD%¤ %RED%Bonehew%ORANGE%(BUDGET MERC WEAPON) %GOLD%¤
 ItemDisplay[UNI !ID hal !ETH]: %GOLD%¤ %WHITE%Woestave %GOLD%¤
 ItemDisplay[UNI !ID 9s8 !ETH]: %GOLD%¤ %WHITE%Athena's Wrath %GOLD%¤
 ItemDisplay[UNI !ID 9pa !ETH]: %GOLD%¤ %WHITE%Pierre Tombale Couant %GOLD%¤
@@ -1649,9 +1649,9 @@ ItemDisplay[UNI !ID 7o7 ETH]: %GOLD%¤¤¤ %RED%eth Bonehew %GOLD%¤¤¤
 ItemDisplay[UNI !ID 7s8 ETH]: %GOLD%¤ %RED%eth The Reaper's Toll %GOLD%¤
 ItemDisplay[UNI !ID 7wc ETH]: %GOLD%¤ %RED%eth Stormspire %GOLD%¤
 // WP9
-ItemDisplay[UNI !ID 6lw]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%WINDFORCE %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID 8lw]: %GOLD%¤¤¤ %RED%Goldstrike Arch %GOLD%¤¤¤
-ItemDisplay[UNI !ID 6l7]: %GOLD%¤¤¤ %RED%Eaglehorn %GOLD%¤¤¤
+ItemDisplay[UNI !ID 6lw]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%WINDFORCE%ORANGE%(SOCKET CORRUP) %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID 8lw]: %GOLD%¤¤¤ %RED%Goldstrike Arch%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID 6l7]: %GOLD%¤¤¤ %RED%Eaglehorn%TAN%(LEVELING ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID 6sw]: %GOLD%¤ Widowmaker ¤
 ItemDisplay[UNI !ID lbb]: %GOLD%¤ Wizendraw ¤
 ItemDisplay[UNI !ID 8sw]: %GOLD%¤ Magewrath ¤
@@ -1661,15 +1661,15 @@ ItemDisplay[UNI !ID 8l8]: %GOLD%¤ %WHITE%Cliffkiller %GOLD%¤
 ItemDisplay[UNI !ID hbw]: %GOLD%¤ %WHITE%Witherstring %GOLD%¤
 ItemDisplay[UNI !ID aq2]: %GOLD%????? %RED%Arrows %GOLD%?????
 // WP10
-ItemDisplay[UNI !ID rxb]: %GOLD%¤¤¤ %RED%Doomslinger %GOLD%¤¤¤
+ItemDisplay[UNI !ID rxb]: %GOLD%¤¤¤ %RED%Doomslinger%ORANGE%(SOCKET CORRUP) %GOLD%¤¤¤
 ItemDisplay[UNI !ID 8hx]: %GOLD%¤ Buriza-Do Kyanon ¤
 ItemDisplay[UNI !ID 8rx]: %GOLD%¤ Demon Machine ¤
 ItemDisplay[UNI !ID 6rx]: %GOLD%¤ %WHITE%Gut Siphon %GOLD%¤
 ItemDisplay[UNI !ID 8mx]: %GOLD%¤ %WHITE%Pus Spitter %GOLD%¤
 // WP11
 ItemDisplay[UNI !ID 6ws !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%MANG SONG'S LESSON %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID 6cs !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Ondal's Wisdom %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID 8ws !ETH]: %GOLD%¤ %RED%Skull Collector %GOLD%¤
+ItemDisplay[UNI !ID 6cs !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Ondal's Wisdom%ORANGE%(GOOD SWITCH WEAPON FOR COLD/FIRE DMG DEALERS) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID 8ws !ETH]: %GOLD%¤ %RED%Skull Collector%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID 8ss !ETH]: %GOLD%¤ Razorswitch ¤
 ItemDisplay[UNI !ID 8ls !ETH]: %GOLD%¤ Ribcracker ¤
 ItemDisplay[UNI !ID 8bs !ETH]: %GOLD%¤ Warpspear ¤
@@ -1681,9 +1681,9 @@ ItemDisplay[UNI !ID 6ws ETH]: %GOLD%¤¤¤¤¤ %PURPLE%eth MANG SONG'S LESSON %G
 ItemDisplay[UNI !ID 6cs ETH]: %GOLD%¤¤¤ %RED%eth Ondal's Wisdom %GOLD%¤¤¤
 ItemDisplay[UNI !ID 8ss ETH]: %GOLD%¤ %WHITE%eth Razorswitch %GOLD%¤
 // WP12
-ItemDisplay[UNI !ID 7gw !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%DEATH'S WEB %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID 9wn !ETH]: %GOLD%¤ %RED%Suicide Branch %GOLD%¤
-ItemDisplay[UNI !ID 9gw !ETH]: %GOLD%¤ %RED%Blackhand Key %GOLD%¤
+ItemDisplay[UNI !ID 7gw !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%DEATH'S WEB%ORANGE%(GG ITEM) %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID 9wn !ETH]: %GOLD%¤ %RED%Suicide Branch%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID 9gw !ETH]: %GOLD%¤ %RED%Blackhand Key%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID 7bw !ETH]: %GOLD%¤ Boneshade ¤
 ItemDisplay[UNI !ID 9yw !ETH]: %GOLD%¤ Carin Shard ¤
 ItemDisplay[UNI !ID 9bw !ETH]: %GOLD%¤ Arm of King Leoric ¤
@@ -1698,7 +1698,7 @@ ItemDisplay[UNI !ID 9gw ETH]: %GOLD%¤ %WHITE%eth Blackhand Key %GOLD%¤
 ItemDisplay[UNI !ID ywn ETH]: %GOLD%¤ %WHITE%eth Maelstrom %GOLD%¤
 ItemDisplay[UNI !ID gwn ETH]: %GOLD%¤ %WHITE%eth Ume's Lament %GOLD%¤
 // WP13
-ItemDisplay[UNI !ID 7sc !ETH]: %GOLD%????? %RED%Mighty Scepter %GOLD%?????
+ItemDisplay[UNI !ID 7sc !ETH]: %GOLD%????? %RED%Mighty Scepter%ORANGE%(HEAVEN'S LIGHT? - SOCKET CORRUP) %GOLD%?????
 ItemDisplay[UNI !ID 7ws !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Astreon's Iron Ward %GOLD%¤¤¤¤¤
 ItemDisplay[UNI !ID 9ws !ETH]: %GOLD%¤ Hand of Blessed Light ¤
 ItemDisplay[UNI !ID 9qs !ETH]: %GOLD%¤ %WHITE%Zakarum's Hand %GOLD%¤
@@ -1709,34 +1709,34 @@ ItemDisplay[UNI !ID 7ws ETH]: %GOLD%¤ %RED%eth Astreon's Iron Ward %GOLD%¤
 //║ Unique CLX ║
 //╚════════════╝
 // CL1
-ItemDisplay[UNI !ID dra !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%JALAL'S MANE %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID dra !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%JALAL'S MANE%ORANGE%(GOOD DRUID PELT) %GOLD%¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[UNI !ID dre !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Ravenlore %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID drd !ETH]: %GOLD%¤¤¤ %RED%Spirit Keeper %GOLD%¤¤¤
-ItemDisplay[UNI !ID drb !ETH]: %GOLD%¤ Cerebus' Bite ¤
+ItemDisplay[UNI !ID drd !ETH]: %GOLD%¤¤¤ %RED%Spirit Keeper%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID drb !ETH]: %GOLD%¤ Cerebus' Bite%TAN%(LEVELING ITEM) ¤
 ItemDisplay[UNI !ID dra ETH]: %GOLD%¤¤¤ %PURPLE%eth Jalal's Mane %GOLD%¤¤¤
 ItemDisplay[UNI !ID dre ETH]: %GOLD%¤ %RED%eth Ravenlore %GOLD%¤
 ItemDisplay[UNI !ID drd ETH]: %GOLD%¤ eth Spirit Keeper ¤
 ItemDisplay[UNI !ID drb ETH]: %GOLD%¤ %WHITE%eth Cerebus' Bite %GOLD%¤
 // CL2
-ItemDisplay[UNI !ID baa !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%ARREAT'S FACE %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID bac !ETH]: %GOLD%¤¤¤ %PURPLE%Wolfhowl %GOLD%¤¤¤
-ItemDisplay[UNI !ID bad !ETH]: %GOLD%¤ %RED%Demonhorn's Edge %GOLD%¤
-ItemDisplay[UNI !ID bae !ETH]: %GOLD%¤ %RED%Halaberd's Reign %GOLD%¤
+ItemDisplay[UNI !ID baa !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%ARREAT'S FACE%ORANGE%(SOCKET CORRUP) %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID bac !ETH]: %GOLD%¤¤¤ %PURPLE%Wolfhowl%ORANGE%(UBER/DCLONE HELM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID bad !ETH]: %GOLD%¤ %RED%Demonhorn's Edge%TAN%(LEVELING ITEM) %GOLD%¤
+ItemDisplay[UNI !ID bae !ETH]: %GOLD%¤ %RED%Halaberd's Reign%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID baa ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%eth Arreat's Face %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID bac ETH]: %GOLD%¤ %RED%eth Wolfhowl %GOLD%¤
 ItemDisplay[UNI !ID bad ETH]: %GOLD%¤ eth Demonhorn's Edge ¤
 ItemDisplay[UNI !ID bae ETH]: %GOLD%¤ eth Halaberd's Reign ¤
 // CL3
-ItemDisplay[UNI !ID pac !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%ALMA NEGRA %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID pa9 !ETH]: %GOLD%¤¤¤¤¤ %RED%Herald of Zakarum %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID pae !ETH]: %GOLD%¤¤¤ %RED%Dragonscale %GOLD%¤¤¤
+ItemDisplay[UNI !ID pac !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%ALMA NEGRA%ORANGE%(SOCKET CORRUP) %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID pa9 !ETH]: %GOLD%¤¤¤¤¤ %RED%Herald of Zakarum%ORANGE%(GREAT LEVELING ITEM) %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID pae !ETH]: %GOLD%¤¤¤ %RED%Dragonscale%TAN%(LEVELING ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID pac ETH]: %GOLD%¤¤¤ %RED%eth Alma Negra %GOLD%¤¤¤
 ItemDisplay[UNI !ID pa9 ETH]: %GOLD%¤ %RED%eth Herald of Zakarum %GOLD%¤
 ItemDisplay[UNI !ID pae ETH]: %GOLD%¤ %RED%eth Dragonscale %GOLD%¤
 // CL4
-ItemDisplay[UNI !ID nea !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%HOMONCULUS %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID nea !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%HOMONCULUS%ORANGE%(CLEAN OR SOCKET CORRUP) %GOLD%¤¤¤¤¤
 ItemDisplay[UNI !ID nef !ETH]: %GOLD%¤¤¤ %PURPLE%Darkforce Spawn %GOLD%¤¤¤
-ItemDisplay[UNI !ID nee !ETH]: %GOLD%¤¤¤ %RED%Boneflame %GOLD%¤¤¤
+ItemDisplay[UNI !ID nee !ETH]: %GOLD%¤¤¤ %RED%Boneflame%TAN%(LEVELING ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID nea ETH]: %GOLD%¤¤¤¤¤¤ %RED%eth Homonculus %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID nef ETH]: %GOLD%¤ %RED%eth Darkforce Spawn %GOLD%¤
 ItemDisplay[UNI !ID nee ETH]: %GOLD%¤ %RED%eth Boneflame %GOLD%¤
@@ -1748,18 +1748,18 @@ ItemDisplay[UNI !ID 9tw ETH]: %GOLD%¤ eth Bartuc's Cut-Throat ¤
 ItemDisplay[UNI !ID 7lw ETH]: %GOLD%¤ eth Firelizard's Talons ¤
 ItemDisplay[UNI !ID 7wb ETH]: %GOLD%¤ eth Jade Talon ¤
 // CL6
-ItemDisplay[UNI !ID obf !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%DEATH'S FATHOM %GOLD%¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[UNI !ID obc !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Eschuta's Temper %GOLD%¤¤¤¤¤¤
-ItemDisplay[UNI !ID oba !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%The Oculus %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID obf !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%DEATH'S FATHOM%ORANGE%(GREAT ITEM - SOCKET CORRUP) %GOLD%¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[UNI !ID obc !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Eschuta's Temper%ORANGE%(GREAT ITEAM - NO MF THOUGH) %GOLD%¤¤¤¤¤¤
+ItemDisplay[UNI !ID oba !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%The Oculus%ORANGE%(CLEAN/SOCKET CORRUP) %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID obf ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%eth Death's Fathom %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID obc ETH]: %GOLD%¤¤¤ %RED%eth Eschuta's Temper %GOLD%¤¤¤
 ItemDisplay[UNI !ID oba ETH]: %GOLD%¤¤¤ %RED%eth The Oculus %GOLD%¤¤¤
 // CL7
-ItemDisplay[UNI !ID ama !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Titan's Revenge %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID amf !ETH]: %GOLD%¤¤¤ %RED%Thunderstroke %GOLD%¤¤¤
+ItemDisplay[UNI !ID ama !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Titan's Revenge%ORANGE%(GREAT THROW-ZON ITEM) %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID amf !ETH]: %GOLD%¤¤¤ %RED%Thunderstroke%ORANGE%(GREAT MELEE-ZON ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID amd !ETH]: %GOLD%¤ Stoneraven ¤
 ItemDisplay[UNI !ID am9 !ETH]: %GOLD%¤ Lycander's Flank ¤
-ItemDisplay[UNI !ID ama ETH]: %GOLD%¤¤¤ %PURPLE%eth Titan's Revenge %GOLD%¤¤¤
+ItemDisplay[UNI !ID ama ETH]: %GOLD%¤¤¤ %PURPLE%eth Titan's Revenge%ORANGE%(ETH IS BETTER! - GG ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID amf ETH]: %GOLD%¤ %WHITE%eth Thunderstroke %GOLD%¤
 ItemDisplay[UNI !ID amb]: %GOLD%¤ Blood Raven's Charge ¤
 ItemDisplay[UNI !ID am7]: %GOLD%¤ Lycander's Aim ¤
