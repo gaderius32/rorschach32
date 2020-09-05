@@ -129,20 +129,20 @@ ItemDisplay[MAG ID WP13 (TABSK24>2 AND SK121>2)]: %PURPLE%+++++ %ORANGE%FOH SCEP
 //╔══════╗
 //║ GEMS ║
 //╚══════╝
-ItemDisplay[gpv]: %ORANGE%PERFECT Amethyst%WHITE%(WEAPON)
-ItemDisplay[gpw]: %ORANGE%PERFECT Diamond
-ItemDisplay[gpg]: %ORANGE%PERFECT GREEN%Emerald
-ItemDisplay[gpr]: %ORANGE%PERFECT RED%Ruby
-ItemDisplay[gpb]: %ORANGE%PERFECT BLUE
-ItemDisplay[gpy]: %ORANGE%PERFECT YELLOW%Topaz%WHITE%(ARMOR)
-ItemDisplay[skz]: %ORANGE%PERFECT Skull
-ItemDisplay[gzv]: %ORANGE%Amethyst%WHITE%(WEAPON)
-ItemDisplay[glw]: %ORANGE%Diamond
-ItemDisplay[glg]: %ORANGE%Emerald
-ItemDisplay[glr]: %ORANGE%Ruby
-ItemDisplay[glb]: %ORANGE%Sapphire
-ItemDisplay[gly]: %ORANGE%Topaz%WHITE%(ARMOR)
-ItemDisplay[skl]: %ORANGE%Skull
+ItemDisplay[gpv]: %PURPLE%● %ORANGE%PERFECT Amethyst%WHITE%(WEAPON) %PURPLE%●
+ItemDisplay[gpw]: %WHITE%● %ORANGE%PERFECT Diamond %WHITE%●
+ItemDisplay[gpg]: %GREEN%● %ORANGE%PERFECT GREEN%Emerald %GREEN%●
+ItemDisplay[gpr]: %RED%● %ORANGE%PERFECT RED%Ruby %RED%●
+ItemDisplay[gpb]: %BLUE%● %ORANGE%PERFECT BLUE %BLUE%●
+ItemDisplay[gpy]: %YELLOW%● %ORANGE%PERFECT YELLOW%Topaz%WHITE%(ARMOR) %YELLOW%●
+ItemDisplay[skz]: %ORANGE%●%WHITE%۞%ORANGE%● %ORANGE%PERFECT Skull %ORANGE%●%WHITE%۞%ORANGE%●
+ItemDisplay[gzv]: %PURPLE%● %ORANGE%Amethyst%WHITE%(WEAPON) %PURPLE%●
+ItemDisplay[glw]: %WHITE%● %ORANGE%Diamond %WHITE%●
+ItemDisplay[glg]: %GREEN%● %ORANGE%Emerald %GREEN%●
+ItemDisplay[glr]: %RED%● %ORANGE%Ruby %RED%●
+ItemDisplay[glb]: %BLUE%● %ORANGE%Sapphire %BLUE%●
+ItemDisplay[gly]: %YELLOW%● %ORANGE%Topaz%WHITE%(ARMOR) %YELLOW%●
+ItemDisplay[skl]: %ORANGE%●%WHITE%۞%ORANGE%● %ORANGE%Skull %ORANGE%●%WHITE%۞%ORANGE%●
 ItemDisplay[CLVL>39 (gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku)]:
 ItemDisplay[CLVL>29 (gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf)]:
 ItemDisplay[CLVL>19 (gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]:
@@ -308,8 +308,8 @@ ItemDisplay[MAG !ID ILVL>66]:
 //╔═══════╗
 //║ RARES ║
 //╚═══════╝
-ItemDisplay[RARE !ID aq2]: × %NAME% × %RED% (PHYS DMG/RES/MF/DEADLY STRIKE)
-ItemDisplay[RARE !ID cq2]: × %NAME% × %RED% (PHYS DMG/RES/MF/DEADLY STRIKE)
+ItemDisplay[RARE !ID aq2]: %RED%۞%YELLOW% × %NAME% × %RED%۞ 
+ItemDisplay[RARE !ID cq2]: %RED%۞%YELLOW% × %NAME% × %RED%۞
 ItemDisplay[RARE !ID amu]: %RED%÷÷ %YELLOW%%NAME% %RED%÷÷
 ItemDisplay[RARE !ID rin]: %RED%÷÷ %YELLOW%%NAME% %RED%÷÷
 ItemDisplay[RARE !ID jew]: %YELLOW%¤¤¤¤ %RED%J%ORANGE%E%YELLOW%W%GREEN%E%BLUE%L %YELLOW%¤¤¤¤
@@ -1421,7 +1421,7 @@ ItemDisplay[UNI !ID gth ETH]: %GOLD%¤ eth Rattlecage ¤
 // EQ3
 ItemDisplay[UNI !ID uit !ETH]: %GOLD%¤¤¤¤¤¤¤¤¤¤ %PURPLE%STORMSHIELD%ORANGE%(GG ENDGAME BLOCK SHIELD) %GOLD%¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[UNI !ID xow !ETH]: %GOLD%¤¤¤ %RED%Gerke's Sanctuary%TAN%(LEVELING ITEM) %GOLD%¤¤¤
-ItemDisplay[UNI !ID uow !ETH]: %GOLD%¤¤¤ %RED%Medusa's Gaze%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID uow !ETH]: %GOLD%¤¤¤ %RED%Medusa's Gaze%TAN%(shiver armor) %GOLD%¤¤¤
 ItemDisplay[UNI !ID xsh !ETH]: %GOLD%¤¤¤ %RED%Lidless Wall%TAN%(LEVELING ITEM - NICE %MANA) %GOLD%¤¤¤
 ItemDisplay[UNI !ID uts !ETH]: %GOLD%¤¤¤ %RED%Spirit Ward%TAN%(LEVELING ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID xml !ETH]: %GOLD%¤ %RED%Moser's Blessed Circle%TAN%(LEVELING ITEM - RES SHIELD (ADD PERFECT DIAMONDS)) %GOLD%¤
