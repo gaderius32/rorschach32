@@ -292,7 +292,7 @@ ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %GRAY%%NAME% %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
 ItemDisplay[MAG !ID cm1]: %ORANGE%--> %RED%s.charm %ORANGE%<--
-ItemDisplay[MAG !ID cm3]: %ORANGE%>---> %RED%G.CHARM %ORANGE%<---<
+ItemDisplay[MAG !ID cm3]: %GREEN%---> %RED%G.CHARM %GREEN%<---
 ItemDisplay[MAG !ID cm2 ILVL<88]: %ORANGE%>> %RED%large %ORANGE%<<
 ItemDisplay[MAG !ID cm2 ILVL=88]: %ORANGE%>> %RED%large %ORANGE%<<
 ItemDisplay[MAG !ID cm2 ILVL>88]: %ORANGE%>> %RED%large %ORANGE%<<
