@@ -2,7 +2,7 @@
 //║ Look Up Item Codes @ Path of Diablo Wiki ║
 //║ Pure Karma Loot Filter 8.6               ║
 //║ Patch: Tourmaline                        ║
-//║ By: KarmaNation	                     ║
+//║ By: KarmaNation	                         ║
 //╚══════════════════════════════════════════╝
 ItemDisplay[CLVL>79 GOLD<5000]:
 ItemDisplay[CLVL>59 GOLD<2500]:
@@ -291,11 +291,11 @@ ItemDisplay[MAG !ID amu ILVL>88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK
 ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %GRAY%%NAME% %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID cm1]: %GREEN%*** %RED%S. CHARM %GREEN%***
+ItemDisplay[MAG !ID cm1]: %GREEN%**  %RED%S. CHARM  %GREEN%**
 ItemDisplay[MAG !ID cm3]: %GREEN%***** %RED%G.CHARM %GREEN%*****
-ItemDisplay[MAG !ID cm2 ILVL<88]: %NGREEN%* %RED%large %NGREEN%*
-ItemDisplay[MAG !ID cm2 ILVL=88]: %NGREEN%* %RED%large %NGREEN%*
-ItemDisplay[MAG !ID cm2 ILVL>88]: %NGREEN%* %RED%large %NGREEN%*
+ItemDisplay[MAG !ID cm2 ILVL<88]: %DGREEN%* %RED%large %DGREEN%*
+ItemDisplay[MAG !ID cm2 ILVL=88]: %DGREEN%* %RED%large %DGREEN%*
+ItemDisplay[MAG !ID cm2 ILVL>88]: %DGREEN%* %RED%large %DGREEN%*
 ItemDisplay[MAG !ID ci2 !ETH]: %RED%÷ %BLUE%%NAME% %RED%÷
 ItemDisplay[MAG !ID ci3 !ETH]: %RED%÷ %BLUE%%NAME% %RED%÷
 ItemDisplay[MAG !ID jew]: %RED%¤%ORANGE%¤%YELLOW%¤%GREEN%¤ %BLUE%%NAME% %GREEN%¤%YELLOW%¤%ORANGE%¤%RED%¤ 
