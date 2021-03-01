@@ -171,22 +171,22 @@ ItemDisplay[CLVL<20 skc]: %BLACK%»%GRAY%skull
 //║ RUNES ║
 //╚═══════╝
 ItemDisplay[RW]: %NAME%
-ItemDisplay[r01]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%1
-ItemDisplay[r02]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%2
-ItemDisplay[r03]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%3
-ItemDisplay[r04]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%4
-ItemDisplay[r05]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%5
-ItemDisplay[r06]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%6
-ItemDisplay[r07]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%7
-ItemDisplay[r08]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%8
-ItemDisplay[r09]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%9
-ItemDisplay[r10]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%10
-ItemDisplay[r11]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%11
-ItemDisplay[r12]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%12
-ItemDisplay[r13]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%13
-ItemDisplay[r14]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%14
-ItemDisplay[r15]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%15
-ItemDisplay[r16]: %RED%!!!%TAN%%RUNENAME%%RED%!!! %WHITE%16
+ItemDisplay[r01]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%1
+ItemDisplay[r02]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%2
+ItemDisplay[r03]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%3
+ItemDisplay[r04]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%4
+ItemDisplay[r05]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%5
+ItemDisplay[r06]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%6
+ItemDisplay[r07]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%7
+ItemDisplay[r08]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%8
+ItemDisplay[r09]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%9
+ItemDisplay[r10]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%10
+ItemDisplay[r11]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%11
+ItemDisplay[r12]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%12
+ItemDisplay[r13]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%13
+ItemDisplay[r14]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%14
+ItemDisplay[r15]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%15
+ItemDisplay[r16]: %RED%!!!%ORANGE%%RUNENAME%%RED%!!! %WHITE%16
 ItemDisplay[r17]: %RED%¤ %ORANGE%%RUNENAME% %RED%¤ %WHITE%17
 ItemDisplay[r18]: %RED%¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤¤ %WHITE%18
 ItemDisplay[r19]: %RED%¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤¤ %WHITE%19
