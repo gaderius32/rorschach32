@@ -181,12 +181,12 @@ ItemDisplay[r07]: %ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%7
 ItemDisplay[r08]: %ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%8
 ItemDisplay[r09]: %ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%9
 ItemDisplay[r10]: %ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%10
-ItemDisplay[r11]: %ORANGE%  ¤%WHITE%¤  %RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%11
-ItemDisplay[r12]: %ORANGE%  ¤%WHITE%¤  %RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%12
-ItemDisplay[r13]: %ORANGE%  ¤%WHITE%¤  %RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%13
-ItemDisplay[r14]: %ORANGE%  ¤%WHITE%¤  %RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%14
-ItemDisplay[r15]: %ORANGE%  ¤%WHITE%¤  %RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%15
-ItemDisplay[r16]: %ORANGE%  ¤%WHITE%¤  %RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%16
+ItemDisplay[r11]: %ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%11
+ItemDisplay[r12]: %ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%12
+ItemDisplay[r13]: %ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%13
+ItemDisplay[r14]: %ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%14
+ItemDisplay[r15]: %ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%15
+ItemDisplay[r16]: %ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%16
 ItemDisplay[r17]: %RED%  ¤ %ORANGE%%RUNENAME% %RED% ¤  %WHITE%17
 ItemDisplay[r18]: %RED%¤¤¤  %ORANGE%%RUNENAME% %RED%¤¤¤  %WHITE%18
 ItemDisplay[r19]: %RED%¤¤¤  %ORANGE%%RUNENAME% %RED%¤¤¤  %WHITE%19
