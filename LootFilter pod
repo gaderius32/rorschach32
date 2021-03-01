@@ -9,7 +9,7 @@ ItemDisplay[CLVL>59 GOLD<2500]:
 ItemDisplay[CLVL>44 GOLD<750]:
 ItemDisplay[CLVL>24 GOLD<250]:
 ItemDisplay[CLVL<25 GOLD<100]:
-ItemDisplay[cx5]: %RED%© %PURPLE%Corrupted Orb %RED%©
+ItemDisplay[cx5]: %RED%©©©©© %PURPLE%Corrupted Orb %RED%©©©©©
 ItemDisplay[maz]: %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷ %RED%TRIAL %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷
 ItemDisplay[ma2]: %PURPLE%¤¤¤¤ %RED%TIER %PURPLE%4 %RED%MAP %PURPLE%¤¤¤¤
 ItemDisplay[ma6]: %RED%³ %GOLD%Tier %RED%3 %GOLD%Map %RED%³
@@ -291,8 +291,8 @@ ItemDisplay[MAG !ID amu ILVL>88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK
 ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %GRAY%%NAME% %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID cm1]: %GREEN%**  %RED%S. CHARM  %GREEN%**
-ItemDisplay[MAG !ID cm3]: %GREEN%***** %RED%G.CHARM %GREEN%*****
+ItemDisplay[MAG !ID cm1]: %GREEN%**  %RED%S-CHARM  %GREEN%**
+ItemDisplay[MAG !ID cm3]: %GREEN%***** %RED%G-CHARM %GREEN%*****
 ItemDisplay[MAG !ID cm2 ILVL<88]: %DGREEN%* %RED%large %DGREEN%*
 ItemDisplay[MAG !ID cm2 ILVL=88]: %DGREEN%* %RED%large %DGREEN%*
 ItemDisplay[MAG !ID cm2 ILVL>88]: %DGREEN%* %RED%large %DGREEN%*
@@ -517,7 +517,7 @@ ItemDisplay[SET !ID ztb]: %GREEN%¤ %DGREEN%Wilhem's Pride %GREEN%¤
 ItemDisplay[SET !ID xhl]: %GREEN%¤ %DGREEN%Sazabi's Mental Sheath %GREEN%¤
 ItemDisplay[SET !ID 7ls]: %GREEN%¤ %DGREEN%Sazabi's Cobalt Redeemer %GREEN%¤
 ItemDisplay[SET !ID upl]: %GREEN%¤ %DGREEN%Sazabi's Ghost Liberator %GREEN%¤
-ItemDisplay[SET !ID 7wd]: %GREEN%¤ %DGREEN%Bul-Kathos' Tribal Guardian %GREEN%¤
+ItemDisplay[SET !ID 7wd]: %GREEN%¤ %GREEN%Bul-Kathos' Tribal Guardian %GREEN%¤
 ItemDisplay[SET !ID 7gd]: %GREEN%¤¤ %DGREEN%Bul-Kathos' Sacred Charge %GREEN%¤¤
 ItemDisplay[SET !ID tbt]: %GREEN%¤ %DGREEN%Vidala's Fetlock %GREEN%¤
 ItemDisplay[SET !ID swb]: %GREEN%¤ %DGREEN%Arctic Horn %GREEN%¤
@@ -1372,13 +1372,13 @@ ItemDisplay[UNI !ID uar !ETH]: %GOLD%????? %PURPLE%Sacred Armor %GOLD%?????
 ItemDisplay[UNI !ID uui !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Ormus' Robes%ORANGE%(GOOD BUT NO MF) %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID xhn !ETH]: %GOLD%¤¤¤¤¤¤ %PURPLE%Shaftstop%ORANGE%(NICE MERC CHEST // CORRUP-> 4OS = BEST CHEST) %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID upl !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Arkaine's Valor %GOLD%¤¤¤¤¤
-ItemDisplay[UNI !ID xea !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Skin of the Vipermagi%ORANGE%(CHECK RES ROLL) %GOLD%¤¤¤¤¤
+ItemDisplay[UNI !ID xea !ETH]: %GOLD%¤¤¤¤¤ %PURPLE%Skin of the Vipermagi%ORANGE%(CHECK RES ROLL + UP + 4OS) %GOLD%¤¤¤¤¤
 ItemDisplay[UNI !ID xlt !ETH]: %GOLD%¤¤¤ %PURPLE%Guardian Angel%ORANGE%(NEED TO CORRUP) %GOLD%¤¤¤
 ItemDisplay[UNI !ID xpl !ETH]: %GOLD%¤¤¤¤¤¤ %RED%Skullder's Ire%ORANGE%(GG EARLY LEAGUE(MF)) %GOLD%¤¤¤¤¤¤
 ItemDisplay[UNI !ID utu !ETH]: %GOLD%¤¤¤¤¤ %RED%The Gladiator's Bane%TAN%(LEVELING ITEM) %GOLD%¤¤¤¤¤
 ItemDisplay[UNI !ID uld !ETH]: %GOLD%¤¤¤¤¤ %RED%Leviathan%TAN%(LEVELING ITEM) %GOLD%¤¤¤¤¤
 ItemDisplay[UNI !ID xtp !ETH]: %GOLD%¤¤¤ %RED%Que-Hegan's Wisdom%TAN%(LEVELING ITEM) %GOLD%¤¤¤
-ItemDisplay[UNI !ID xrs !ETH]: %GOLD%¤¤¤ %RED%Duriel's Shell%TAN%(LEVELING ITEM) %GOLD%¤¤¤
+ItemDisplay[UNI !ID xrs !ETH]: %GOLD%¤¤¤ %RED%Duriel's Shell%TAN%(LEVELING ITEM+MERC) %GOLD%¤¤¤
 ItemDisplay[UNI !ID xar !ETH]: %GOLD%¤¤¤ %RED%Corpsemourn%TAN%(LEVELING ITEM) %GOLD%¤¤¤
 ItemDisplay[UNI !ID qui !ETH]: %GOLD%¤ %RED%Greyform%TAN%(LEVELING ITEM) %GOLD%¤
 ItemDisplay[UNI !ID plt !ETH]: %GOLD%¤ %RED%Boneflesh%TAN%(LEVELING ITEM) %GOLD%¤
