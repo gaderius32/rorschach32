@@ -6,9 +6,9 @@ ItemDisplay[CLVL<25 GOLD<100]:
 ItemDisplay[cx5]: %RED%©©© %PURPLE%Corrupted Orb %RED%©©©
 ItemDisplay[maz]: %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷ %RED%TRIAL %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷
 ItemDisplay[ma2]: %PURPLE%¤¤¤¤ %RED%TIER %PURPLE%4 %RED%MAP %PURPLE%¤¤¤¤
-ItemDisplay[ma6]: %RED%³ %GOLD%Tier %RED%3 %GOLD%Map %RED%³
-ItemDisplay[ma5]: %RED%² %YELLOW%Tier %RED%2 %YELLOW%Map %RED%²
-ItemDisplay[ma4]: %RED%¹ %DGREEN%Tier %RED%1 %DGREEN%Map %RED%¹
+ItemDisplay[ma6]: %RED%*** %GOLD%Tier %RED%3 %GOLD%Map %RED%***
+ItemDisplay[ma5]: %RED%** %YELLOW%Tier %RED%2 %YELLOW%Map %RED%**
+ItemDisplay[ma4]: %RED%* %DGREEN%Tier %RED%1 %DGREEN%Map %RED%*
 ItemDisplay[fed]: %GREEN%¤¤¤¤¤¤¤¤¤¤ ESSENCE%ORANGE%(ONLY ONE ACTUALLY WORTH SOMETHING)¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[tes]: %BLUE%¤¤¤ ESSENCE ¤¤¤
 ItemDisplay[ceh]: %YELLOW%¤¤¤ ESSENCE ¤¤¤
@@ -280,8 +280,8 @@ ItemDisplay[ID UNI !SOCK=0 ETH]: %NAME% %BLUE%eth (%SOCKETS%)
 //║ MAGIC ║
 //╚═══════╝
 ItemDisplay[MAG !ID amu ILVL<88]: %ORANGE%÷ %BLUE%%NAME% %ORANGE%÷
-ItemDisplay[MAG !ID amu ILVL=88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
-ItemDisplay[MAG !ID amu ILVL>88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
+ItemDisplay[MAG !ID amu ILVL=88]: %ORANGE%÷÷÷ %BLUE%%NAME% %ORANGE% [L%ILVL%] %ORANGE%÷÷÷
+ItemDisplay[MAG !ID amu ILVL>88]: %ORANGE%÷÷÷ %BLUE%%NAME% %ORANGE% [L%ILVL%] %ORANGE%÷÷÷
 ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %GRAY%%NAME% %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL=88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
 ItemDisplay[MAG !ID rin ILVL>88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
