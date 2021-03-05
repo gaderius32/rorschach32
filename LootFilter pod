@@ -208,8 +208,8 @@ ItemDisplay[r33]: %GREEN%33 %PURPLE%¤¤¤¤¤¤¤¤¤¤¤ %RED%ZOD %PURPLE%¤¤
 //ItemDisplay[MAG 7gm ILVL>70]: Maul «%GRAY%tir
 //ItemDisplay[MAG 7wh ILVL>70]: Mallet «%GRAY%tir
 //ItemDisplay[MAG 7fl ILVL>70]: Scourge «%GRAY%tir
-ItemDisplay[MAG umg ILVL>70]: Hit Power Vambraces «%GRAY%ort
-ItemDisplay[MAG xmg ILVL>70]: Hit Power Bracers «%GRAY%ort
+ItemDisplay[MAG umg ILVL>70]: Hit Power Vambraces «%ORANGE%Ort-Jewel-Sapphire
+ItemDisplay[MAG xmg ILVL>70]: Hit Power Bracers «%ORANGE%Ort-Jewel-Sapphire
 //ItemDisplay[MAG uld ILVL>70]: Kraken «%GRAY%nef
 //ItemDisplay[MAG uts ILVL>70]: Ward «%GRAY%eth
 // Blood
@@ -226,12 +226,12 @@ ItemDisplay[MAG umc ILVL>70]: Coil %RED%«%GRAY%tal
 ItemDisplay[MAG zmb ILVL>70]: Blood Belt %RED%«%GRAY%tal
 ItemDisplay[MAG utb ILVL>70]: Kick Boots %RED%«%GRAY%eth
 ItemDisplay[MAG xtb ILVL>70]: Boots %RED%«%GRAY%eth
-ItemDisplay[MAG uvg ILVL>70]: Blood Gloves %RED%«%GRAY%nef
+ItemDisplay[MAG uvg ILVL>70]: Blood Gloves %RED%«%ORANGE%Nef-Jewel-Ruby
 // Caster
 //ItemDisplay[MAG 7qs ILVL>70]: Scepter %PURPLE%«%GRAY%tir
 //ItemDisplay[MAG 6bs ILVL>70]: Staff %PURPLE%«%GRAY%tir
 //ItemDisplay[MAG 7gw ILVL>70]: Wand %PURPLE%«%GRAY%tir
-ItemDisplay[MAG uvc ILVL>70]: Caster Belt %PURPLE%«%GRAY%Ith
+ItemDisplay[MAG uvc ILVL>70]: Caster Belt %PURPLE%«%ORANGE%Ith-Jewel-Amethyste
 //ItemDisplay[MAG usk ILVL>70]: Head %PURPLE%«%GRAY%nef
 //ItemDisplay[MAG xsk ILVL>70]: Mask %PURPLE%«%GRAY%nef
 //ItemDisplay[MAG uml ILVL>70]: Luna %PURPLE%«%GRAY%eth
@@ -279,12 +279,12 @@ ItemDisplay[ID UNI !SOCK=0 ETH]: %NAME% %BLUE%eth (%SOCKETS%)
 //╔═══════╗
 //║ MAGIC ║
 //╚═══════╝
-ItemDisplay[MAG !ID amu ILVL<88]: %BLACK%÷ %BLUE%%NAME% %BLACK%÷
-ItemDisplay[MAG !ID amu ILVL=88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK%÷ 
-ItemDisplay[MAG !ID amu ILVL>88]: %BLACK%÷ %BLUE%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
+ItemDisplay[MAG !ID amu ILVL<88]: %ORANGE%÷ %BLUE%%NAME% %ORANGE%÷
+ItemDisplay[MAG !ID amu ILVL=88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
+ItemDisplay[MAG !ID amu ILVL>88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
 ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %GRAY%%NAME% %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL=88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
-ItemDisplay[MAG !ID rin ILVL>88]: %BLACK%÷ %GRAY%%NAME% %GRAY% [L%ILVL%] %BLACK%÷
+ItemDisplay[MAG !ID rin ILVL=88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
+ItemDisplay[MAG !ID rin ILVL>88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
 ItemDisplay[MAG !ID cm1]: %GREEN%**  %RED%S-CHARM  %GREEN%**
 ItemDisplay[MAG !ID cm3]: %GREEN%***** %RED%G-CHARM %GREEN%*****
 ItemDisplay[MAG !ID cm2 ILVL<88]: %DGREEN%* %RED%large %DGREEN%*
