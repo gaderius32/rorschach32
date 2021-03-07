@@ -123,20 +123,20 @@ ItemDisplay[MAG ID WP13 (TABSK24>2 AND SK121>2)]: %PURPLE%+++++ %ORANGE%FOH SCEP
 //╔══════╗
 //║ GEMS ║
 //╚══════╝
-ItemDisplay[gpv]: %PURPLE%● %ORANGE%PERFECT Amethyst%WHITE%(WEAPON) %PURPLE%●
+ItemDisplay[gpv]: %PURPLE%● %ORANGE%PERFECT Amethyst%WHITE% %PURPLE%●
 ItemDisplay[gpw]: %WHITE%● %ORANGE%PERFECT Diamond %WHITE%●
 ItemDisplay[gpg]: %GREEN%● %ORANGE%PERFECT GREEN%Emerald %GREEN%●
 ItemDisplay[gpr]: %RED%● %ORANGE%PERFECT RED%Ruby %RED%●
 ItemDisplay[gpb]: %BLUE%● %ORANGE%PERFECT BLUE %BLUE%●
-ItemDisplay[gpy]: %YELLOW%● %ORANGE%PERFECT YELLOW%Topaz%WHITE%(ARMOR) %YELLOW%●
-ItemDisplay[skz]: %ORANGE%●%WHITE%۞%ORANGE%● %ORANGE%PERFECT Skull %ORANGE%●%WHITE%۞%ORANGE%●
-ItemDisplay[gzv]: %PURPLE%● %ORANGE%Amethyst%WHITE%(WEAPON) %PURPLE%●
+ItemDisplay[gpy]: %YELLOW%● %ORANGE%PERFECT Topaz %YELLOW%●
+ItemDisplay[skz]: %ORANGE%● %ORANGE%PERFECT Skull %ORANGE%●
+ItemDisplay[gzv]: %PURPLE%● %ORANGE%Amethyst %PURPLE%●
 ItemDisplay[glw]: %WHITE%● %ORANGE%Diamond %WHITE%●
 ItemDisplay[glg]: %GREEN%● %ORANGE%Emerald %GREEN%●
 ItemDisplay[glr]: %RED%● %ORANGE%Ruby %RED%●
 ItemDisplay[glb]: %BLUE%● %ORANGE%Sapphire %BLUE%●
-ItemDisplay[gly]: %YELLOW%● %ORANGE%Topaz%WHITE%(ARMOR) %YELLOW%●
-ItemDisplay[skl]: %ORANGE%●%WHITE%۞%ORANGE%● %ORANGE%Skull %ORANGE%●%WHITE%۞%ORANGE%●
+ItemDisplay[gly]: %YELLOW%● %ORANGE%Topaz %YELLOW%●
+ItemDisplay[skl]: %ORANGE%● %ORANGE%Skull %ORANGE%●
 ItemDisplay[CLVL>39 (gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku)]:
 ItemDisplay[CLVL>29 (gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf)]:
 ItemDisplay[CLVL>19 (gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]:
@@ -285,8 +285,8 @@ ItemDisplay[MAG !ID amu ILVL>88]: %ORANGE%÷÷÷ %BLUE%%NAME% %ORANGE% [L%ILVL%]
 ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%÷ %GRAY%%NAME% %BLACK%÷
 ItemDisplay[MAG !ID rin ILVL=88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
 ItemDisplay[MAG !ID rin ILVL>88]: %ORANGE%÷÷÷ %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%÷÷÷
-ItemDisplay[MAG !ID cm1]: %GREEN%**  %RED%S-CHARM  %GREEN%**
-ItemDisplay[MAG !ID cm3]: %GREEN%***** %RED%G-CHARM %GREEN%*****
+ItemDisplay[MAG !ID cm1]: %GREEN%*** %RED%s.charm  %GREEN%***
+ItemDisplay[MAG !ID cm3]: %GREEN%***** %RED%G.CHARM %GREEN%*****
 ItemDisplay[MAG !ID cm2 ILVL<88]: %DGREEN%* %RED%large %DGREEN%*
 ItemDisplay[MAG !ID cm2 ILVL=88]: %DGREEN%* %RED%large %DGREEN%*
 ItemDisplay[MAG !ID cm2 ILVL>88]: %DGREEN%* %RED%large %DGREEN%*
