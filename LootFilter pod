@@ -190,7 +190,7 @@ ItemDisplay[r22]: %NL% %NL% %RED%#####  %PURPLE%%RUNENAME% %RED%#####  %WHITE%22
 ItemDisplay[r23]: %NL% %NL% %RED%######  %PURPLE%%RUNENAME% %RED%######  %WHITE%23
 ItemDisplay[r24]: %NL% %NL% %RED%########  %PURPLE%%RUNENAME% %RED%########  %WHITE%24 
 ItemDisplay[r25]: %NL% %NL% %RED%########  %PURPLE%%RUNENAME% %RED%########  %WHITE%25
-ItemDisplay[r26]: %NL% %GREEN%26 %RED%########## %PURPLE%VEX %RED%########### %GREEN%26
+ItemDisplay[r26]: %NL% %NL% %GREEN%26 %RED%########## %PURPLE%VEX %RED%########### %GREEN%26
 ItemDisplay[r27]: %NL% %NL% %GREEN%27 %RED%########## %PURPLE%OHM %RED%########### %GREEN%27%NL% 
 ItemDisplay[r28]: %NL% %NL% %GREEN%28 %PURPLE%########### %RED%LO %PURPLE%########### %GREEN%28%NL% 
 ItemDisplay[r29]: %NL% %NL% %GREEN%29 %PURPLE%########### %RED%SUR %PURPLE%########### %GREEN%29%NL% 
