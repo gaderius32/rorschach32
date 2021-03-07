@@ -165,16 +165,16 @@ ItemDisplay[CLVL<20 skc]: %BLACK%»%GRAY%skull
 //║ RUNES ║
 //╚═══════╝
 ItemDisplay[RW]: %NAME%
-ItemDisplay[r01]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%1
-ItemDisplay[r02]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%2
-ItemDisplay[r03]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%3
-ItemDisplay[r04]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%4
-ItemDisplay[r05]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%5
-ItemDisplay[r06]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%6
-ItemDisplay[r07]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%7
-ItemDisplay[r08]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%8
-ItemDisplay[r09]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%9
-ItemDisplay[r10]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %WHITE%10
+ItemDisplay[r01]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%1
+ItemDisplay[r02]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%2
+ItemDisplay[r03]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%3
+ItemDisplay[r04]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%4
+ItemDisplay[r05]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%5
+ItemDisplay[r06]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%6
+ItemDisplay[r07]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%7
+ItemDisplay[r08]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%8
+ItemDisplay[r09]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%9
+ItemDisplay[r10]: %NL%%ORANGE%  ¤  %RUNENAME%  ¤  %NL%%WHITE%10
 ItemDisplay[r11]: %NL%%ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%11
 ItemDisplay[r12]: %NL%%ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%12
 ItemDisplay[r13]: %NL%%ORANGE%  ¤%WHITE%¤  %ORANGE%%RUNENAME%  %WHITE%¤%ORANGE%¤  %WHITE%13
