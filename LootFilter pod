@@ -3,7 +3,7 @@ ItemDisplay[CLVL>59 GOLD<2500]:
 ItemDisplay[CLVL>44 GOLD<750]:
 ItemDisplay[CLVL>24 GOLD<250]:
 ItemDisplay[CLVL<25 GOLD<100]:
-ItemDisplay[cx5]: %RED%©©© %PURPLE%Corrupted Orb %RED%©©©
+ItemDisplay[cx5]: %RED%©©© %PURPLE%Corrupted Orb %RED%©©© %MAP%
 ItemDisplay[maz]: %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷ %RED%TRIAL %PURPLE%÷÷÷÷÷÷÷÷÷÷÷÷÷
 ItemDisplay[ma2]: %PURPLE%¤¤¤¤ %RED%TIER %PURPLE%4 %RED%MAP %PURPLE%¤¤¤¤
 ItemDisplay[ma6]: %RED%*** %GOLD%Tier %RED%3 %GOLD%Map %RED%***
@@ -165,7 +165,7 @@ ItemDisplay[CLVL<20 skc]: %BLACK%»%GRAY%skull
 //║ RUNES ║
 //╚═══════╝
 ItemDisplay[RW]: %NAME%
-ItemDisplay[r01]: %ORANGE%  #  %RUNENAME%  #  %WHITE%1
+ItemDisplay[r01]: %ORANGE%  #  %RUNENAME%  #  %WHITE%1 
 ItemDisplay[r02]: %ORANGE%  #  %RUNENAME%  #  %WHITE%2
 ItemDisplay[r03]: %ORANGE%  #  %RUNENAME%  #  %WHITE%3
 ItemDisplay[r04]: %ORANGE%  #  %RUNENAME%  #  %WHITE%4
@@ -181,23 +181,23 @@ ItemDisplay[r13]: %ORANGE%  #%WHITE%#  %ORANGE%%RUNENAME%  %WHITE%#%ORANGE%#  %W
 ItemDisplay[r14]: %ORANGE%  #%WHITE%#  %ORANGE%%RUNENAME%  %WHITE%#%ORANGE%#  %WHITE%14
 ItemDisplay[r15]: %ORANGE%  #%WHITE%#  %ORANGE%%RUNENAME%  %WHITE%#%ORANGE%#  %WHITE%15
 ItemDisplay[r16]: %ORANGE%  #%WHITE%#  %ORANGE%%RUNENAME%  %WHITE%#%ORANGE%#  %WHITE%16
-ItemDisplay[r17]: %NL% %RED%# %ORANGE%%RUNENAME% %RED% #  %WHITE%17 %NL% 
-ItemDisplay[r18]: %NL% %RED%###  %ORANGE%%RUNENAME% %RED%###  %WHITE%18 %NL% 
-ItemDisplay[r19]: %NL% %RED%###  %ORANGE%%RUNENAME% %RED%###  %WHITE%19 %NL% 
-ItemDisplay[r20]: %NL% %RED%######  %ORANGE%%RUNENAME% %RED%######  %WHITE%20 %NL% 
-ItemDisplay[r21]: %NL% %RED%####  %PURPLE%%RUNENAME% %RED%####  %WHITE%21 %NL% 
-ItemDisplay[r22]: %NL% %RED%#####  %PURPLE%%RUNENAME% %RED%#####  %WHITE%22 %NL% 
-ItemDisplay[r23]: %NL% %RED%######  %PURPLE%%RUNENAME% %RED%######  %WHITE%23 %NL%
-ItemDisplay[r24]: %NL% %RED%########  %PURPLE%%RUNENAME% %RED%########  %WHITE%24 %NL%
-ItemDisplay[r25]: %NL% %RED%########  %PURPLE%%RUNENAME% %RED%########  %WHITE%25 %NL%
-ItemDisplay[r26]: %NL% %GREEN%26 %RED%########## %PURPLE%VEX %RED%########### %GREEN%26 %NL%
-ItemDisplay[r27]: %NL% %GREEN%27 %RED%########## %PURPLE%OHM %RED%########### %GREEN%27 %NL% 
-ItemDisplay[r28]: %NL% %GREEN%28 %PURPLE%########### %RED%LO %PURPLE%########### %GREEN%28 %NL% 
-ItemDisplay[r29]: %NL% %GREEN%29 %PURPLE%########### %RED%SUR %PURPLE%########### %GREEN%29 %NL% 
-ItemDisplay[r30]: %NL% %GREEN%30 %PURPLE%########### %RED%BER %PURPLE%########### %GREEN%30 %NL% 
-ItemDisplay[r31]: %NL% %GREEN%31 %PURPLE%########### %RED%JAH %PURPLE%########### %GREEN%31 %NL% 
-ItemDisplay[r32]: %NL% %GREEN%32 %PURPLE%########### %RED%CHAM %PURPLE%########### %GREEN%32 %NL% 
-ItemDisplay[r33]: %NL% %GREEN%33 %PURPLE%########### %RED%ZOD %PURPLE%########### %GREEN%33 %NL% 
+ItemDisplay[r17]: %NL% %RED%# %ORANGE%%RUNENAME% %RED% #  %WHITE%17 %NL% %MAP%
+ItemDisplay[r18]: %NL% %RED%###  %ORANGE%%RUNENAME% %RED%###  %WHITE%18 %NL% %MAP%
+ItemDisplay[r19]: %NL% %RED%###  %ORANGE%%RUNENAME% %RED%###  %WHITE%19 %NL% %MAP%
+ItemDisplay[r20]: %NL% %RED%######  %ORANGE%%RUNENAME% %RED%######  %WHITE%20 %NL% %MAP%
+ItemDisplay[r21]: %NL% %RED%####  %PURPLE%%RUNENAME% %RED%####  %WHITE%21 %NL% %MAP%
+ItemDisplay[r22]: %NL% %RED%#####  %PURPLE%%RUNENAME% %RED%#####  %WHITE%22 %NL% %MAP%
+ItemDisplay[r23]: %NL% %RED%######  %PURPLE%%RUNENAME% %RED%######  %WHITE%23 %NL% %MAP%
+ItemDisplay[r24]: %NL% %RED%########  %PURPLE%%RUNENAME% %RED%########  %WHITE%24 %NL% %MAP%
+ItemDisplay[r25]: %NL% %RED%########  %PURPLE%%RUNENAME% %RED%########  %WHITE%25 %NL% %MAP%
+ItemDisplay[r26]: %NL% %GREEN%26 %RED%########## %PURPLE%VEX %RED%########### %GREEN%26 %NL% %MAP%
+ItemDisplay[r27]: %NL% %GREEN%27 %RED%########## %PURPLE%OHM %RED%########### %GREEN%27 %NL% %MAP%
+ItemDisplay[r28]: %NL% %GREEN%28 %PURPLE%########### %RED%LO %PURPLE%########### %GREEN%28 %NL% %MAP%
+ItemDisplay[r29]: %NL% %GREEN%29 %PURPLE%########### %RED%SUR %PURPLE%########### %GREEN%29 %NL% %MAP%
+ItemDisplay[r30]: %NL% %GREEN%30 %PURPLE%########### %RED%BER %PURPLE%########### %GREEN%30 %NL% %MAP%
+ItemDisplay[r31]: %NL% %GREEN%31 %PURPLE%########### %RED%JAH %PURPLE%########### %GREEN%31 %NL% %MAP%
+ItemDisplay[r32]: %NL% %GREEN%32 %PURPLE%########### %RED%CHAM %PURPLE%########### %GREEN%32 %NL% %MAP%
+ItemDisplay[r33]: %NL% %GREEN%33 %PURPLE%########### %RED%ZOD %PURPLE%########### %GREEN%33 %NL% %MAP%
 //╔══════════╗
 //║ CRAFTING ║
 //╚══════════╝
