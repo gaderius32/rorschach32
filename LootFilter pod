@@ -40,10 +40,10 @@ ItemDisplay[CLVL>32 tsc]:
 ItemDisplay[CLVL>81 key]:
 ItemDisplay[CLVL<45 isc]: %BLACK%-%DARK_GREEN%?%BLACK%-
 ItemDisplay[CLVL<33 tsc]: %BLACK%-%GRAY%¶%BLACK%-
-ItemDisplay[CLVL<80 key]: %BLACK%-%TAN%Î%BLACK%-
+ItemDisplay[CLVL<75 key]: %BLACK%-%TAN%Î%BLACK%-
 ItemDisplay[box]: %BLACK%«%TAN%Crafting Cube%BLACK%»
-ItemDisplay[hp5]: %BLACK%¯ %RED%POT%BLACK% ¯
-ItemDisplay[mp5]: %BLACK%¯ %BLUE%POT%BLACK% ¯
+ItemDisplay[hp5]: %BLACK%¯ %RED%O%BLACK% ¯
+ItemDisplay[mp5]: %BLACK%¯ %BLUE%O%BLACK% ¯
 ItemDisplay[rvs]:
 ItemDisplay[rvl]: %BLACK%¯ %PURPLE%FULL%BLACK% ¯
 ItemDisplay[CLVL>79 hp4]:
@@ -58,7 +58,7 @@ ItemDisplay[CLVL<80 hp4]: %BLACK%¯ %RED%pot%BLACK% ¯
 ItemDisplay[CLVL<49 hp3]: %BLACK%¯ %RED%pot%BLACK% ¯
 ItemDisplay[CLVL<25 hp2]: %BLACK%¯ %RED%pot%BLACK% ¯
 ItemDisplay[CLVL<13 hp1]: %BLACK%¯ %RED%pot%BLACK% ¯
-ItemDisplay[CLVL<80 mp4]: %BLACK%¯ %BLUE%pot%BLACK% ¯
+ItemDisplay[CLVL<75 mp4]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<61 mp3]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<31 mp2]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<16 mp1]: %BLACK%¯ %BLUE%pot%BLACK% ¯
