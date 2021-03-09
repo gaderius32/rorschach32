@@ -481,7 +481,7 @@ ItemDisplay[SET !ID urn]: %GREEN%## %DARK_GREEN%Griswold's Valor %GREEN%##
 ItemDisplay[SET !ID paf]: %GREEN%## %DARK_GREEN%Griswold's Honor %GREEN%##
 ItemDisplay[SET !ID oba]: %GREEN%### %GREEN%Tal Rasha's Lidless Eye %GREEN%###
 ItemDisplay[SET !ID zmb]: %GREEN%# %DARK_GREEN%Tal Rasha's Fine Spun Cloth %GREEN%#
-ItemDisplay[SET !ID xsk]: %GREEN%# %GREEN%Tal Rasha's Horadric Crest %GREEN%# %RED%SOCKET CORRUPT
+ItemDisplay[SET !ID xsk]: %GREEN%# %GREEN%Tal Rasha's Horadric Crest %GREEN%# %RED%
 ItemDisplay[SET !ID dr8]: %GREEN%# %DARK_GREEN%Aldur's Stony Gaze %GREEN%#
 ItemDisplay[SET !ID uul]: %GREEN%# %DARK_GREEN%Aldur's Deception %GREEN%#
 ItemDisplay[SET !ID 9mt]: %GREEN%# %DARK_GREEN%Aldur's Rhythm %GREEN%#
