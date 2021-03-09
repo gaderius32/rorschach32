@@ -62,7 +62,7 @@ ItemDisplay[CLVL<75 mp4]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<61 mp3]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<31 mp2]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<16 mp1]: %BLACK%¯ %BLUE%pot%BLACK% ¯
-ItemDisplay[leg]: %TAN%WIRT' LEG
+ItemDisplay[leg]: %TAN%WIRT' LEG{%WHITE%This Item + %ORANGE%Tal %WHITE%+ %ORANGE%Amn %WHITE%+ aPerf %RED%O%NL%%TAN%Note%WHITE%: Socketing Recipe:}
 ItemDisplay[ear]: %RED%%NAME%
 ItemDisplay[CLVL<80 yps]:
 //ItemDisplay[CLVL>81 yps]:
@@ -262,7 +262,7 @@ ItemDisplay[ID MAG amu]: %BLUE%%NAME% %GRAY%[L%ILVL%]
 ItemDisplay[ID MAG rin]: %BLUE%%NAME% %GRAY%[L%ILVL%]
 ItemDisplay[ID MAG cm1]: %ORANGE%# %BLUE%%NAME% %ORANGE%# %GRAY%[L%ILVL%]
 ItemDisplay[ID MAG cm2]: %ORANGE%## %BLUE%%NAME% %ORANGE%## %GRAY%[L%ILVL%]
-ItemDisplay[ID MAG cm3]: %ORANGE%### %BLUE%%NAME% %ORANGE%### %GRAY%[L%ILVL%] {%WHITE%This Item + %ORANGE%Tal %WHITE%+ %ORANGE%Amn %WHITE%+ aPerf %RED%O%NL%%TAN%Note%WHITE%: Socketing Recipe:}
+ItemDisplay[ID MAG cm3]: %ORANGE%### %BLUE%%NAME% %ORANGE%### %GRAY%[L%ILVL%]
 ItemDisplay[ID MAG jew]: %RED%#%ORANGE%#%YELLOW%#%GREEN%# %BLUE%%NAME% %GRAY%[L%ILVL%] %GREEN%#%YELLOW%#%ORANGE%#%RED%#
 ItemDisplay[ID MAG SOCK=0 !ETH]: %NAME%
 ItemDisplay[ID MAG SOCK=0 ETH]: %NAME% eth
