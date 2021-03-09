@@ -38,6 +38,7 @@ ItemDisplay[CLVL<80 key]: %BLACK%-%TAN%Î%BLACK%-
 ItemDisplay[box]: %BLACK%«%TAN%Crafting Cube%BLACK%»
 ItemDisplay[hp5]: %BLACK%¯ %RED%POT%BLACK% ¯
 ItemDisplay[mp5]: %BLACK%¯ %BLUE%POT%BLACK% ¯
+ItemDisplay[rvs]:
 ItemDisplay[rvl]: %BLACK%¯ %PURPLE%FULL%BLACK% ¯
 ItemDisplay[CLVL>79 hp4]:
 ItemDisplay[CLVL>48 hp3]:
