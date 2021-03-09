@@ -262,7 +262,7 @@ ItemDisplay[ID MAG amu]: %BLUE%%NAME% %GRAY%[L%ILVL%]
 ItemDisplay[ID MAG rin]: %BLUE%%NAME% %GRAY%[L%ILVL%]
 ItemDisplay[ID MAG cm1]: %ORANGE%# %BLUE%%NAME% %ORANGE%# %GRAY%[L%ILVL%]
 ItemDisplay[ID MAG cm2]: %ORANGE%## %BLUE%%NAME% %ORANGE%## %GRAY%[L%ILVL%]
-ItemDisplay[ID MAG cm3]: %ORANGE%### %BLUE%%NAME% %ORANGE%### %GRAY%[L%ILVL%]
+ItemDisplay[ID MAG cm3]: %ORANGE%### %BLUE%%NAME% %ORANGE%### %GRAY%[L%ILVL%] %NOTE% aaaa test
 ItemDisplay[ID MAG jew]: %RED%#%ORANGE%#%YELLOW%#%GREEN%# %BLUE%%NAME% %GRAY%[L%ILVL%] %GREEN%#%YELLOW%#%ORANGE%#%RED%#
 ItemDisplay[ID MAG SOCK=0 !ETH]: %NAME%
 ItemDisplay[ID MAG SOCK=0 ETH]: %NAME% eth
