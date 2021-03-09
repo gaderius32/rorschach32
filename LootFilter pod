@@ -279,9 +279,9 @@ ItemDisplay[ID UNI !SOCK=0 ETH]: %NAME% %BLUE%eth (%SOCKETS%)
 //╔═══════╗
 //║ MAGIC ║
 //╚═══════╝
-ItemDisplay[MAG !ID amu ILVL<88]: %ORANGE%# %BLUE%%NAME% %ORANGE%÷
-ItemDisplay[MAG !ID amu ILVL=88]: %ORANGE%# %BLUE%%NAME% %ORANGE% [L%ILVL%] %ORANGE%#
-ItemDisplay[MAG !ID amu ILVL>88]: %ORANGE%# %BLUE%%NAME% %ORANGE% [L%ILVL%] %ORANGE%#
+ItemDisplay[MAG !ID amu ILVL<88]: %ORANGE%÷ %BLUE%%NAME% %ORANGE%÷
+ItemDisplay[MAG !ID amu ILVL=88]: %ORANGE%÷ %BLUE%%NAME% %ORANGE% [L%ILVL%] %ORANGE%÷
+ItemDisplay[MAG !ID amu ILVL>88]: %ORANGE%÷ %BLUE%%NAME% %ORANGE% [L%ILVL%] %ORANGE%÷
 ItemDisplay[MAG !ID rin ILVL<88]: %BLACK%# %GRAY%%NAME% %BLACK%#
 ItemDisplay[MAG !ID rin ILVL=88]: %ORANGE%# %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%#
 ItemDisplay[MAG !ID rin ILVL>88]: %ORANGE%# %BLUE%%NAME% %GREEN% [L%ILVL%] %ORANGE%#
