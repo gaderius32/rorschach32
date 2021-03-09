@@ -658,13 +658,13 @@ ItemDisplay[NMAG (SK274>0 AND SK267>2) (SOCK=0 OR SOCK>2) !9cs !7xf !7cs]: %WHIT
 ItemDisplay[NMAG (SK274>0 AND SK262>1) (SOCK=0 OR SOCK>2) !9cs !7xf !7cs]: %WHITE%+2-3 %ORANGE%BoI WoF Claw
 ItemDisplay[NMAG (SK274>0 AND SK271>2) (SOCK=0 OR SOCK>2) !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%BoI LS Claw
 ItemDisplay[NMAG (SK274>0 AND SK276>2) (SOCK=0 OR SOCK>2) !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%BoI DS Claw
-ItemDisplay[NMAG SK261>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %WHITE%Charged Bolt Claw
+ItemDisplay[NMAG SK261>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Charged Bolt Claw
 ItemDisplay[NMAG SK262>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Wake of Fire Claw%RED% GG BASE %MAP%
 ItemDisplay[NMAG SK271>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Lightning Sentry Claw
-ItemDisplay[NMAG SK272>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %WHITE%Wake of Inferno Claw
+ItemDisplay[NMAG SK272>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Wake of Inferno Claw
 ItemDisplay[NMAG SK274>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%BoI Claw
-ItemDisplay[NMAG SK275>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %WHITE%Flight Claw
-ItemDisplay[NMAG SK276>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %WHITE%Death Sentry Claw
+ItemDisplay[NMAG SK275>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Flight Claw
+ItemDisplay[NMAG SK276>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Death Sentry Claw
 ItemDisplay[NMAG SK277>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Blade Shield Claw%RED% GG BASE %MAP%
 ItemDisplay[NMAG SK278>2 SOCK=0 !9cs !7xf !7cs]: %WHITE%+3 %ORANGE%Venom Claw%RED% GOOD BASE %MAP%
 ItemDisplay[NMAG SK261>2 SOCK>2]: %WHITE%+3 %ORANGE%Charged Bolt Claw %BLUE%(%SOCKETS%)
