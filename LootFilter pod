@@ -62,7 +62,7 @@ ItemDisplay[CLVL<75 mp4]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<61 mp3]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<31 mp2]: %BLACK%¯ %BLUE%pot%BLACK% ¯
 ItemDisplay[CLVL<16 mp1]: %BLACK%¯ %BLUE%pot%BLACK% ¯
-ItemDisplay[leg]: %NL% %TAN%WIRT' LEG %NL% {%WHITE%testtest%NAME%%RED%testtes}
+ItemDisplay[leg]: %NL% %TAN%WIRT' LEG %NL%
 ItemDisplay[ear]: %RED%%NAME%
 ItemDisplay[CLVL<80 yps]:
 //ItemDisplay[CLVL>81 yps]:
