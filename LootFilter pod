@@ -302,8 +302,8 @@ ItemDisplay[MAG !ID ILVL>66]:
 //╔═══════╗
 //║ RARES ║
 //╚═══════╝
-ItemDisplay[RARE !ID aq2]: %RED%#%YELLOW% # %NAME% # %RED# 
-ItemDisplay[RARE !ID cq2]: %RED%#%YELLOW% # %NAME% # %RED#
+ItemDisplay[RARE !ID aq2]: %RED%#%YELLOW% # %NAME% # %RED%# 
+ItemDisplay[RARE !ID cq2]: %RED%#%YELLOW% # %NAME% # %RED%#
 ItemDisplay[RARE !ID amu]: %RED%### %YELLOW%%NAME% %RED%###
 ItemDisplay[RARE !ID rin]: %RED%## %YELLOW%%NAME% %RED%##
 ItemDisplay[RARE !ID jew]: %YELLOW%#### %RED%J%ORANGE%E%YELLOW%W%GREEN%E%BLUE%L %YELLOW%####
