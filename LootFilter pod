@@ -1315,16 +1315,16 @@ ItemDisplay[NMAG WP6]:
 //╔════════════╗
 //║ Unique EQX ║
 //╚════════════╝
-ItemDisplay[UNI !ID cm3]: %NL% %PURPLE%÷÷÷%%GOLD%# Gheed's Fortune #%NL% %PURPLE%÷÷÷% %NL% %MAP%
+ItemDisplay[UNI !ID cm3]: %NL% %PURPLE%÷÷÷%%GOLD%# Gheed's Fortune #%NL% %PURPLE%÷÷÷% %NL% %MAP% %NOTIFY-RED%
 ItemDisplay[UNI !ID cm1]: %NL% %PURPLE%÷÷÷÷÷÷÷÷÷÷% %RED%ANNIHILUS %PURPLE%÷÷÷÷÷÷÷÷÷÷%NL%  %MAP%
 ItemDisplay[UNI !ID cm2]: %NL% %PURPLE%÷÷÷÷÷÷÷÷÷÷% %YELLOW%TORCH %PURPLE%÷÷÷÷÷÷÷÷÷÷%NL%  %MAP%
-ItemDisplay[UNI !ID amu]: %NL% %GOLD%#%RED%÷÷÷÷÷÷÷÷÷÷%GOLD%# %PURPLE%AMULET %GOLD%#%RED%÷÷÷÷÷÷÷÷÷÷%GOLD%#%NL%  %MAP%
-ItemDisplay[UNI !ID rin]: %NL% %GOLD%#%RED%÷÷÷÷÷÷÷÷÷÷%GOLD%# %PURPLE%RING %GOLD%#%RED%÷÷÷÷÷÷÷÷÷÷%GOLD%#%NL%  %MAP%
+ItemDisplay[UNI !ID amu]: %NL% %GOLD%÷÷÷%RED%÷÷÷÷÷÷÷%GOLD%# %PURPLE%AMULET %GOLD%#%RED%÷÷÷÷÷÷÷%GOLD%÷÷÷%NL%  %MAP% %NOTIFY-RED%
+ItemDisplay[UNI !ID rin]: %NL% %GOLD%÷÷÷%RED%÷÷÷÷÷÷÷%GOLD%# %PURPLE%RING %GOLD%#%RED%÷÷÷÷÷÷÷%GOLD%÷÷÷%NL%  %MAP% %NOTIFY-RED%
 ItemDisplay[UNI !ID jew]: %NL% %RED%÷÷÷%YELLOW%÷÷÷%GREEN%÷÷÷%BLUE%÷÷÷ %PURPLE%JEWEL %BLUE%÷÷÷%GREEN%÷÷÷%YELLOW%÷÷÷%RED%÷÷÷%NL%   %MAP%
 // EQ1
 ItemDisplay[UNI !ID uhm !ETH]: %NL% %GOLD%????? %PURPLE%Spired Helm %GOLD%?????%NL% %MAP%
-ItemDisplay[UNI !ID uap !ETH]: %NL% %GOLD%÷÷÷÷÷÷÷÷÷÷÷ %PURPLE%HARLEQUIN CREST %GOLD%÷÷÷÷÷÷÷÷÷÷÷%NL% %MAP%
-ItemDisplay[UNI !ID usk !ETH]: %NL% %GOLD%÷÷÷÷÷ %PURPLE%Andariel's Visage %GOLD%÷÷÷÷÷%NL% %MAP%
+ItemDisplay[UNI !ID uap !ETH]: %NL% %GOLD%÷÷÷÷÷÷÷÷÷÷÷ %PURPLE%HARLEQUIN CREST %GOLD%÷÷÷÷÷÷÷÷÷÷÷%NL% %MAP% %NOTIFY-PURPLE%
+ItemDisplay[UNI !ID usk !ETH]: %NL% %GOLD%÷÷÷÷÷ %PURPLE%Andariel's Visage %GOLD%÷÷÷÷÷%NL% %MAP% %NOTIFY-PURPLE%
 ItemDisplay[UNI !ID urn !ETH]: %NL% %GOLD%÷÷÷÷÷ %PURPLE%Crown of Ages %GOLD%÷÷÷÷÷%NL% %MAP%
 ItemDisplay[UNI !ID xh9 !ETH]: %NL% %GOLD%÷÷÷÷÷ %PURPLE%Vampire Gaze %GOLD%÷÷÷÷÷%NL% %MAP%
 ItemDisplay[UNI !ID ulm !ETH]: %NL% %GOLD%÷÷÷÷÷ %PURPLE%Steel Shade %GOLD%÷÷÷÷÷%NL% %MAP%
