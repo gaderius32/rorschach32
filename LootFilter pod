@@ -20,10 +20,10 @@ ItemDisplay[tes]: %BLUE%÷÷÷÷ ESSENCE ÷÷÷÷ %MAP% %NOTIFY-ORANGE%
 ItemDisplay[ceh]: %YELLOW%÷÷÷÷ ESSENCE ÷÷÷÷ %MAP% %NOTIFY-ORANGE%
 ItemDisplay[bet]: %RED%÷÷÷÷ ESSENCE ÷÷÷÷ %MAP% %NOTIFY-ORANGE%
 ItemDisplay[toa]: %PURPLE%÷÷÷÷ TOKEN ÷÷÷÷ %MAP% 
-ItemDisplay[cx7]: %NL% %TAN%##### %ORANGE%CHAOS KEY%TAN%##### %MAP% %NL% %NOTIFY-ORANGE%
-ItemDisplay[pk1]: %NL% %TAN%%##### %PURPLE%TERROR KEY%TAN%##### %MAP% %NL% %NOTIFY-ORANGE%
-ItemDisplay[pk3]: %NL% %TAN%%##### %YELLOW%DESTRUCTION KEY%TAN%##### %MAP% %NOTIFY-ORANGE%
-ItemDisplay[pk2]: %NL% %TAN%%##### %GREEN%HATE KEY%TAN%##### %MAP% %NL% %NOTIFY-ORANGE%
+ItemDisplay[cx7]: %NL% %TAN%### %ORANGE%CHAOS KEY%TAN%### %MAP% %NL% %NOTIFY-ORANGE%
+ItemDisplay[pk1]: %NL% %TAN%÷÷÷÷÷ %PURPLE%TERROR KEY%TAN%÷÷÷÷÷ %MAP% %NL% %NOTIFY-ORANGE%
+ItemDisplay[pk3]: %NL% %TAN%÷÷÷÷÷ %YELLOW%DESTRUCTION KEY%TAN%÷÷÷÷÷ %MAP% %NOTIFY-ORANGE%
+ItemDisplay[pk2]: %NL% %TAN%÷÷÷÷÷ %GREEN%HATE KEY%TAN%÷÷÷÷÷ %MAP% %NL% %NOTIFY-ORANGE%
 ItemDisplay[bey]: %PURPLE%üüü %WHITE%EYE %PURPLE%üüü
 ItemDisplay[dhn]: %PURPLE%üüü %TAN%HORN %PURPLE%üüü
 ItemDisplay[mbr]: %PURPLE%üüü %YELLOW%BRAIN %PURPLE%üüü
