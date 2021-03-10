@@ -8,7 +8,7 @@ ItemDisplay[maz]: %PURPLE%########## %RED%TRIAL %PURPLE%###########
 ItemDisplay[ma2]: %PURPLE%**** %RED%TIER %PURPLE%4 %RED%MAP %PURPLE****
 ItemDisplay[ma6]: %RED%*** %GOLD%Tier %RED%3 %GOLD%Map %RED%***
 ItemDisplay[ma5]: %RED%** %YELLOW%Tier %RED%2 %YELLOW%Map %RED%**
-ItemDisplay[ma1]: %RED%** %DARK_GREEN%MAP TIER? INFORMEZ GAB #1 PLS %DARK_GREEN%Map %RED%**
+ItemDisplay[ma1]: %RED%** %DARK_GREEN% ICY CAVERN (T1) %DARK_GREEN%Map %RED%**
 ItemDisplay[ma3]: %RED%** %DARK_GREEN%MAP TIER? INFORMEZ GAB #2 PLS %DARK_GREEN%Map %RED%**
 ItemDisplay[ma4]: %RED%** %DARK_GREEN%MAP TIER? INFORMEZ GAB #3 PLS %DARK_GREEN%Map %RED%**
 ItemDisplay[ma7]: %RED%** %DARK_GREEN%MAP TIER? INFORMEZ GAB #4 PLS %DARK_GREEN%Map %RED%**
