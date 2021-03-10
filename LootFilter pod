@@ -135,14 +135,14 @@ ItemDisplay[gpg]: %GREEN%O %ORANGE%PERFECT GREEN%Emerald %GREEN%O
 ItemDisplay[gpr]: %RED%O %ORANGE%PERFECT RED%Ruby %RED%O
 ItemDisplay[gpb]: %BLUE%O %ORANGE%PERFECT BLUE %BLUE%O
 ItemDisplay[gpy]: %YELLOW%O %ORANGE%PERFECT Topaz %YELLOW%O
-ItemDisplay[skz]: %ORANGE%O %ORANGE%PERFECT Skull %ORANGE%O
+ItemDisplay[skz]: %ORANGE%OO%WHITE%OO%WHITE%OO %ORANGE%PERFECT Skull %ORANGE%OO%WHITE%OO%WHITE%OO
 ItemDisplay[gzv]: %PURPLE%O %ORANGE%Amethyst %PURPLE%O
 ItemDisplay[glw]: %WHITE%O %ORANGE%Diamond %WHITE%O
 ItemDisplay[glg]: %GREEN%O %ORANGE%Emerald %GREEN%O
 ItemDisplay[glr]: %RED%O %ORANGE%Ruby %RED%O
 ItemDisplay[glb]: %BLUE%O %ORANGE%Sapphire %BLUE%O
 ItemDisplay[gly]: %YELLOW%O %ORANGE%Topaz %YELLOW%O
-ItemDisplay[skl]: %ORANGE%O %ORANGE%Skull %ORANGE%O
+ItemDisplay[skl]: %ORANGE%OO%WHITE%OO%WHITE%OO %ORANGE%Skull %ORANGE%OO%WHITE%OO%WHITE%OO
 ItemDisplay[CLVL>39 (gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku)]:
 ItemDisplay[CLVL>29 (gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf)]:
 ItemDisplay[CLVL>19 (gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]:
