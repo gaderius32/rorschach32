@@ -7,14 +7,14 @@ ItemDisplay[cx5]: %RED%÷÷÷÷÷ %PURPLE%Corrupted Orb %RED%÷÷÷÷÷ %MAP% %N
 ItemDisplay[maz]: %PURPLE%########## %RED%TRIAL %PURPLE%###########
 ItemDisplay[ma2]: %PURPLE%**** %ORANGE%Forgotten Desert %RED%(T3) MAP %PURPLE%**** %MAP% %NOTIFY-RED%
 ItemDisplay[ma6]: %PURPLE%**** %ORANGE%Ruined Citadel %RED%(T3) MAP %PURPLE%**** %MAP% %NOTIFY-RED%
-ItemDisplay[ma5]: %RED%** %ORANGE%Frigid Plateau %WHITE%(T1) MAP %RED%** %MAP%
-ItemDisplay[ma1]: %RED%** %ORANGE%Icy Caverns %WHITE%(T1) MAP %RED%** %MAP%
-ItemDisplay[ma3]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #2 PLS %DARK_GREEN%Map %RED%**
-ItemDisplay[ma4]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #3 PLS %DARK_GREEN%Map %RED%**
-ItemDisplay[ma7]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #4 PLS %DARK_GREEN%Map %RED%**
-ItemDisplay[ma8]: %ORANGE%Musty cript %YELLOW%(T2) %DARK_GREEN%Map %RED%**
-ItemDisplay[ma9]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #6 PLS %DARK_GREEN%Map %RED%**
-ItemDisplay[ma4]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #7 PLS %DARK_GREEN%Map %RED%**
+ItemDisplay[ma5]: %RED%** %ORANGE%Frigid Plateau %WHITE%(T1) MAP %RED%** %MAP% %NOTIFY-YELLOW%
+ItemDisplay[ma1]: %RED%** %ORANGE%Icy Caverns %WHITE%(T1) MAP %RED%** %MAP% %NOTIFY-YELLOW%
+ItemDisplay[ma3]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #2 PLS %DARK_GREEN%Map %RED%** %MAP%
+ItemDisplay[ma4]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #3 PLS %DARK_GREEN%Map %RED%** %MAP%
+ItemDisplay[ma7]: %RED%** %ORANGE%Burnt Forest %RED%(T3) %DARK_GREEN%Map %RED%** %MAP% %NOTIFY-RED%
+ItemDisplay[ma8]: %ORANGE%Musty cript %YELLOW%(T2) %DARK_GREEN%Map %RED%** %MAP% %NOTIFY-YELLOW%
+ItemDisplay[ma9]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #6 PLS %DARK_GREEN%Map %RED%** %MAP%
+ItemDisplay[ma4]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #7 PLS %DARK_GREEN%Map %RED%** %MAP%
 ItemDisplay[fed]: %NL% %GREEN%÷÷÷÷÷÷÷÷ ESSENCE %RED% GG %GREEN%÷÷÷÷÷÷÷÷ %NL% %MAP% %NOTIFY-ORANGE%
 ItemDisplay[tes]: %BLUE%÷÷÷÷ ESSENCE ÷÷÷÷ %MAP% %NOTIFY-ORANGE%
 ItemDisplay[ceh]: %YELLOW%÷÷÷÷ ESSENCE ÷÷÷÷ %MAP% %NOTIFY-ORANGE%
