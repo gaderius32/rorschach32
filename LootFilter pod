@@ -13,7 +13,7 @@ ItemDisplay[ma3]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #2 PLS %DARK_GREEN%Map 
 ItemDisplay[ma4]: %RED%** %ORANGE%Desecrated temple %YELLOW%(T2) %DARK_GREEN%Map %RED%** %MAP%
 ItemDisplay[ma7]: %RED%** %ORANGE%Burnt Forest %RED%(T3) %DARK_GREEN%Map %RED%** %MAP% %NOTIFY-RED%
 ItemDisplay[ma8]: %ORANGE%Musty cript %YELLOW%(T2) %DARK_GREEN%Map %RED%** %MAP% %NOTIFY-YELLOW%
-ItemDisplay[ma9]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #6 PLS %DARK_GREEN%Map %RED%** %MAP%
+ItemDisplay[ma9]: %RED%** %ORANGE%Dim Cellar %YELLOW%(T2) %DARK_GREEN%Map %RED%** %MAP%
 ItemDisplay[ma4]: %RED%** %ORANGE%MAP TIER? INFORMEZ GAB #7 PLS %DARK_GREEN%Map %RED%** %MAP%
 ItemDisplay[fed]: %NL% %GREEN%÷÷÷÷÷÷÷÷ ESSENCE %RED% GG %GREEN%÷÷÷÷÷÷÷÷ %NL% %MAP% %NOTIFY-ORANGE%
 ItemDisplay[tes]: %BLUE%÷÷÷÷ ESSENCE ÷÷÷÷ %MAP% %NOTIFY-ORANGE%
