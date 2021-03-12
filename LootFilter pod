@@ -1318,8 +1318,8 @@ ItemDisplay[NMAG WP6]:
 ItemDisplay[UNI !ID cm3]: %NL% %PURPLE%÷÷÷%%GOLD%# Gheed's Fortune #%NL% %PURPLE%÷÷÷% %NL% %MAP% %NOTIFY-RED%
 ItemDisplay[UNI !ID cm1]: %NL% %PURPLE%÷÷÷÷÷÷÷÷÷÷% %RED%ANNIHILUS %PURPLE%÷÷÷÷÷÷÷÷÷÷%NL%  %MAP%
 ItemDisplay[UNI !ID cm2]: %NL% %PURPLE%÷÷÷÷÷÷÷÷÷÷% %YELLOW%TORCH %PURPLE%÷÷÷÷÷÷÷÷÷÷%NL%  %MAP%
-ItemDisplay[UNI !ID amu]: %NL% %GOLD%÷÷÷%RED%÷÷÷÷÷÷÷%GOLD%# %PURPLE%AMULET %GOLD%#%RED%÷÷÷÷÷÷÷%GOLD%÷÷÷%NL%  %MAP% %NOTIFY-RED%
-ItemDisplay[UNI !ID rin]: %NL% %GOLD%÷÷÷%RED%÷÷÷÷÷÷÷%GOLD%# %PURPLE%RING %GOLD%#%RED%÷÷÷÷÷÷÷%GOLD%÷÷÷%NL%  %MAP% %NOTIFY-RED%
+ItemDisplay[UNI !ID amu]: %NL% %GOLD%÷÷÷%RED%÷÷÷÷÷÷÷%GOLD%÷ %PURPLE%AMULET %GOLD%÷%RED%÷÷÷÷÷÷÷%GOLD%÷÷÷%NL%  %MAP% %NOTIFY-RED%
+ItemDisplay[UNI !ID rin]: %NL% %GOLD%÷÷÷%RED%÷÷÷÷÷÷÷%GOLD%÷ %PURPLE%RING %GOLD%÷%RED%÷÷÷÷÷÷÷%GOLD%÷÷÷%NL%  %MAP% %NOTIFY-RED%
 ItemDisplay[UNI !ID jew]: %NL% %RED%÷÷÷%YELLOW%÷÷÷%GREEN%÷÷÷%BLUE%÷÷÷ %PURPLE%JEWEL %BLUE%÷÷÷%GREEN%÷÷÷%YELLOW%÷÷÷%RED%÷÷÷%NL%   %MAP%
 // EQ1
 ItemDisplay[UNI !ID uhm !ETH]: %NL% %GOLD%????? %PURPLE%Spired Helm %GOLD%?????%NL% %MAP%
