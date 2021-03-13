@@ -1416,7 +1416,7 @@ ItemDisplay[UNI !ID xuc !ETH]: %GOLD%# Visceratuant #
 ItemDisplay[UNI !ID xit !ETH]: %GOLD%# Tiamat's Rebuke #
 ItemDisplay[UNI !ID gts !ETH]: %GOLD%# The Ward #
 ItemDisplay[UNI !ID ush !ETH]: %GOLD%# %WHITE%Head Hunter's Glory %GOLD%#
-ItemDisplay[UNI !ID xrg !ETH]: %GOLD%# %WHITE%Stormchaser %GOL%D#
+ItemDisplay[UNI !ID xrg !ETH]: %GOLD%# %WHITE%Stormchaser %GOLD%#
 ItemDisplay[UNI !ID kit !ETH]: %GOLD%# %WHITE%Steelclash %GOLD%#
 ItemDisplay[UNI !ID spk !ETH]: %GOLD%# %WHITE%Swordback Hold %GOLD%#
 ItemDisplay[UNI !ID tow !ETH]: %GOLD%# %WHITE%Bverrit Keep %GOLD%#
